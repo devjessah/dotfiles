@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sheetal/Documents/ermanno%20arch%20installer" added="2022-04-16T18:22:51.773670Z" modified="2022-04-18T17:15:06.910959Z" visited="2022-04-16T18:22:51.773673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T17:15:06.910958Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/installers" added="2022-04-16T18:27:12.046276Z" modified="2022-04-18T11:10:20.058432Z" visited="2022-04-16T18:27:12.046277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T11:10:20.058426Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/archinstall2.sh" added="2022-04-16T19:26:50.583781Z" modified="2022-04-18T00:07:01.828146Z" visited="2022-04-16T19:26:50.583783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:07:01.828143Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/base.sh" added="2022-04-16T19:37:03.968535Z" modified="2022-04-18T00:07:15.985884Z" visited="2022-04-16T19:37:03.968537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:07:15.985880Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Pictures/Screenshots/1650161112.png" added="2022-04-17T02:14:03.156674Z" modified="2022-04-17T02:14:03.156683Z" visited="2022-04-17T02:14:03.156676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-17T02:14:03.156678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/Lahug%20Renovation.ods" added="2022-04-17T03:55:22.654994Z" modified="2022-04-18T14:52:52.357642Z" visited="2022-04-17T03:55:22.654994Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2022-04-18T14:50:16.383057Z" count="37"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T14:52:52.357639Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/278220412_7544098052274744_6962553097695833470_n.jpg" added="2022-04-17T04:14:13.975463Z" modified="2022-04-17T04:14:54.547884Z" visited="2022-04-17T04:14:13.975466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-17T04:14:54.547875Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/archinstall.sh" added="2022-04-17T11:01:07.758714Z" modified="2022-04-18T00:06:53.542397Z" visited="2022-04-17T11:01:07.758715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:06:53.542390Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Sheetal&apos;s%20Brain/Linux/Arch%20Post%20Install.md" added="2022-04-17T11:07:48.466575Z" modified="2022-04-17T17:05:16.842714Z" visited="2022-04-17T11:07:48.466576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T17:05:16.842713Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Sheetal&apos;s%20Brain/Linux/Arch%20Install%20(systemd).md" added="2022-04-17T11:07:53.689938Z" modified="2022-04-17T11:07:53.689941Z" visited="2022-04-17T11:07:53.689939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T11:07:53.689940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/baseinstall.sh" added="2022-04-17T14:12:17.763415Z" modified="2022-04-17T15:05:01.736296Z" visited="2022-04-17T14:12:17.763416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T15:05:01.736294Z" count="33"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/Arch%20Linux%20UEFI%20Installation.txt" added="2022-04-17T14:24:26.537680Z" modified="2022-04-17T14:24:46.896913Z" visited="2022-04-17T14:24:26.537681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-17T14:24:46.896898Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/arch-install.git" added="2022-04-17T15:06:15.128200Z" modified="2022-04-17T15:06:15.128203Z" visited="2022-04-17T15:06:15.128201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T15:06:15.128202Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/base.sh" added="2022-04-17T15:07:34.289101Z" modified="2022-04-17T15:07:34.289104Z" visited="2022-04-17T15:07:34.289101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T15:07:34.289103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/latest.sh" added="2022-04-17T18:14:40.447911Z" modified="2022-04-18T00:58:24.223683Z" visited="2022-04-17T18:14:40.447912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:58:24.223682Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/.bash_aliases" added="2022-04-17T18:16:18.183419Z" modified="2022-04-17T18:16:18.183434Z" visited="2022-04-17T18:16:18.183421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T18:16:18.183427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/baseinstall.sh" added="2022-04-17T18:18:31.805203Z" modified="2022-04-18T00:07:26.738644Z" visited="2022-04-17T18:18:31.805203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:07:26.738639Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/baseinstall-bak.sh" added="2022-04-17T18:53:44.436768Z" modified="2022-04-18T00:07:38.202787Z" visited="2022-04-17T18:53:44.436769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:07:38.202781Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/ISO/archlinux-2022.03.01-x86_64.iso" added="2022-04-17T18:59:46.236248Z" modified="2022-04-17T18:59:46.236265Z" visited="2022-04-17T18:59:46.236250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-04-17T18:59:46.236257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/bugs.sh" added="2022-04-17T19:22:07.211238Z" modified="2022-04-18T00:07:44.121521Z" visited="2022-04-17T19:22:07.211240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:07:44.121517Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/backupminegitbaseinstall.sh" added="2022-04-17T19:27:28.226845Z" modified="2022-04-17T21:20:54.867368Z" visited="2022-04-17T19:27:28.226847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T21:20:54.867367Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/remaining.sh" added="2022-04-17T20:35:26.283492Z" modified="2022-04-18T00:08:58.927904Z" visited="2022-04-17T20:35:26.283494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:08:58.927899Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/arch-install-master.zip" added="2022-04-17T21:47:34.591157Z" modified="2022-04-17T22:01:45.768510Z" visited="2022-04-17T21:47:34.591158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-17T21:47:34.591159Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-04-17T22:01:45.768509Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/arch-install-master/base.sh" added="2022-04-17T22:01:50.433390Z" modified="2022-04-17T22:19:37.251154Z" visited="2022-04-17T22:01:50.433390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T22:19:37.251147Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-17T22:18:49.521006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/arch-install-master/base2.sh" added="2022-04-17T22:04:22.422780Z" modified="2022-04-17T22:18:49.521151Z" visited="2022-04-17T22:04:22.422782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-17T22:18:11.141785Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-17T22:18:49.521094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/arch-install-master/base3.sh" added="2022-04-17T22:16:30.823681Z" modified="2022-04-18T00:12:11.816516Z" visited="2022-04-17T22:16:30.823682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:12:11.816508Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/testuser.sh" added="2022-04-17T22:31:12.364693Z" modified="2022-04-18T00:58:51.287515Z" visited="2022-04-17T22:31:12.364694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:58:51.287513Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/variables.sh" added="2022-04-18T00:59:01.857783Z" modified="2022-04-18T00:59:55.055843Z" visited="2022-04-18T00:59:01.857783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T00:59:55.055841Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/archinstall-master.zip" added="2022-04-18T10:54:36.776727Z" modified="2022-04-18T16:19:22.965460Z" visited="2022-04-18T10:54:36.776728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T10:54:36.776730Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-04-18T16:19:22.965459Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/archinstall-master/base.sh" added="2022-04-18T10:55:01.207599Z" modified="2022-04-18T16:36:51.896110Z" visited="2022-04-18T10:55:01.207599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T16:36:51.896109Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/archinstall-master/base2.sh" added="2022-04-18T10:56:32.177715Z" modified="2022-04-18T16:25:33.008212Z" visited="2022-04-18T10:56:32.177715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T16:25:33.008210Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/users.sh" added="2022-04-18T11:06:29.086747Z" modified="2022-04-18T11:06:29.385060Z" visited="2022-04-18T11:06:29.086749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T11:06:29.385053Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents" added="2022-04-18T14:52:39.926291Z" modified="2022-04-18T14:52:39.926305Z" visited="2022-04-18T14:52:39.926293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T14:52:39.926298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/Password%20Manager%20Emergency%20Sheet.pdf" added="2022-04-18T15:02:38.326066Z" modified="2022-04-18T15:02:38.326091Z" visited="2022-04-18T15:02:38.326068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T15:02:38.326078Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/archinstall-master(1).zip" added="2022-04-18T16:24:49.896422Z" modified="2022-04-18T16:25:11.364282Z" visited="2022-04-18T16:24:49.896423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T16:24:49.896424Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-04-18T16:25:11.364281Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/HvKtSa0U.rss" added="2022-04-18T16:47:43.340490Z" modified="2022-04-18T16:47:43.340497Z" visited="2022-04-18T16:47:43.340491Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/rss+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T16:47:43.340494Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Downloads/wM_s1dpk.rss" added="2022-04-18T16:47:50.826381Z" modified="2022-04-18T16:47:50.826396Z" visited="2022-04-18T16:47:50.826382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/rss+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T16:47:50.826388Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/.config/galculator/galculator.conf" added="2022-04-18T16:58:13.414831Z" modified="2022-04-18T16:58:13.414834Z" visited="2022-04-18T16:58:13.414831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T16:58:13.414833Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Documents/git%20commands.md" added="2022-04-18T17:15:27.535572Z" modified="2022-04-18T17:51:23.672887Z" visited="2022-04-18T17:15:27.535573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-18T17:51:23.672884Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Pictures/Screenshots/1650304672.png" added="2022-04-18T17:58:04.047737Z" modified="2022-04-18T17:58:04.047750Z" visited="2022-04-18T17:58:04.047739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T17:58:04.047743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Pictures/Screenshots/1650305616.png" added="2022-04-18T18:13:46.736280Z" modified="2022-04-18T18:13:46.736295Z" visited="2022-04-18T18:13:46.736282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T18:13:46.736287Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sheetal/Pictures/Screenshots/1650305698.png" added="2022-04-18T18:15:35.500748Z" modified="2022-04-18T18:15:35.500760Z" visited="2022-04-18T18:15:35.500750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-18T18:15:35.500754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
