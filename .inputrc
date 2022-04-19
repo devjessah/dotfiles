@@ -1,0 +1,8 @@
+# auto detect directory matches
+set show-all-if-ambiguous on
+set completion-ignore-case on
+
+# type partial command and press up key to  history search
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+

@@ -13,9 +13,24 @@ if [ -f ~/.bash_aliases ]; then
 	.  ~/.bash_aliases
 fi
 
+# terminal rice 
 neofetch
 powerline-daemon -q
 POWERLINE_BASH_CONTINUATION=1
 POWERLINE_BASH_SELECT=1
 . /usr/share/powerline/bindings/bash/powerline.sh
+
+# auto cd directory
+shopt -s autocd
+
+# press "esc" while typing in the terminal to enter vi editing mode
+set -o vi
+
+
+export EDITOR=/usr/bin/vim
+bind -f ~/.inputrc
+
+
+# z to navigate directories
+. ~/z.sh
 

@@ -33,3 +33,9 @@ alias mpdr='kek && mpd'
 
 #--------- anime ---------#
 alias anime='ani-cli'
+
+#--------- file management ---------#
+alias cp='cp -riv'
+alias mv='mv -iv'
+alias rm='rm -riv'
+alias mkdir='mkdir -vp'
