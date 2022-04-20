@@ -22,13 +22,13 @@ POWERLINE_BASH_SELECT=1
 
 # auto cd directory
 shopt -s autocd
+shopt -s direxpand
+bind -f ~/.inputrc
 
 # press "esc" while typing in the terminal to enter vi editing mode
-set -o vi
-
-
-export EDITOR=/usr/bin/vim
-bind -f ~/.inputrc
+#set -o vi
+#stty -ixon 
+#export EDITOR=/usr/bin/vim
 
 
 # z to navigate directories
