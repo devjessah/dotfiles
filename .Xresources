@@ -11,7 +11,7 @@ st.borderpx: 20
 
 !-- values between 0.1  - 1.0 --! 
 
-st.alpha: 0.80
+st.alpha: 0.85
 !st.font:           JetBrainsMono Nerd Font:style:medium:pixelsize=17
 st.font:	   Iosevka Nerd Font:style:medium:pixelsize=19
 
