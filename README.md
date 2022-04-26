@@ -1,4 +1,4 @@
 # dotfiles
-ased on siduck's rice.
+Based on siduck's rice.
 
 ![Sample](https://raw.githubusercontent.com/SheetaI/dotfiles/master/Pictures/Sample.png)
