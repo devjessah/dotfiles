@@ -19,10 +19,10 @@ return require('packer').startup({
       config = "require('treesitter-config')"
     }
     use {
-      'tamton-aquib/staline.nvim',
+      'nvim-lualine/lualine.nvim',
       requires = { 'kyazdani42/nvim-web-devicons', opt = true },
       event = "BufRead",
-      config = "require('staline-config')"
+      config = "require('lualine-config')"
     }
     use {
       'akinsho/bufferline.nvim',
