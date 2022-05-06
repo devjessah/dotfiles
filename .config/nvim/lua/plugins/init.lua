@@ -61,12 +61,12 @@ return require('packer').startup({
         require('gitsigns').setup { current_line_blame = true }
       end
     }
-    use { 'glepnir/dashboard-nvim', event = "BufRead", config = "require('dashboard-config')" }
     use {
       "lukas-reineke/indent-blankline.nvim",
       config = "require('blankline-config')",
       event = "BufRead"
     }
+    use { 'glepnir/dashboard-nvim', config = "require('dashboard-config')" }
     use { "akinsho/toggleterm.nvim", config = "require('toggleterm-config')" }
     use { "terrortylor/nvim-comment", config = "require('comment-config')" }
     use { 'tami5/lspsaga.nvim', config = "require('lspsaga-config')" }
