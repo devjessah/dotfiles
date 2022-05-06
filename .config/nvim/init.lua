@@ -1,0 +1,6 @@
+require('plugins')
+require('mappings')
+require('nvim-tree-config')
+require('treesitter-config')
+vim.cmd('set nu')
+vim.cmd('colorscheme onedark')
