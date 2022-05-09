@@ -7,33 +7,34 @@ Xft.lcdfilter:lcddefault
 Xft.dpi: 96
 
 ! window padding
-st.borderpx: 20
+st.borderpx: 2.0
 
 !-- values between 0.1  - 1.0 --! 
 
 st.alpha: 0.90
-!st.font:           JetBrainsMono Nerd Font:style:medium:pixelsize=17
+
+!-- nerd font --!
 st.font:	   Iosevka Nerd Font:style:medium:pixelsize=19
 
-#define base00 #23272A
+#define base00 #2C3036
 #define base01 #36393F
 #define base02 #3e4451
 #define base03 #545862
 #define base04 #565c64
-#define base05 #abb2bf
+#define base05 #ABB2BF
 #define base06 #b6bdca
 #define base07 #B7C2CE
-#define base08 #e06c75
+#define base08 #E06C75
 #define base09 #d19a66
-#define base0A #e5c07b
+#define base0A #E5C07B
 #define base0B #48B784
 #define base0C #45DDC0
-#define base0D #61afef
-#define base0E #c678dd
+#define base0D #61AFEF
+#define base0E #C678DD
 #define base0F #F47B67
 
 *foreground:   base07
-*background:   #23272A
+*background:   #2C3036
 *cursorColor:  base05
 
 *color0:       base00
@@ -61,5 +62,6 @@ tabbed.selbgcolor:   #1e222a
 
 tabbed.normfgcolor:  #9294a8
 tabbed.normbgcolor:  #282c34
+
 
 
