@@ -1,0 +1,30 @@
+.mica-load-more {
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #888;
+}
+
+.mica-load-more > i {
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: 2px solid #cfcfcf;
+  border-top-color: #f0b90b;
+  animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+

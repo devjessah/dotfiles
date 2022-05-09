@@ -1,0 +1,705 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/chunks/framework.646a2496.js",
+        "static/chunks/commons.51340123.js",
+        "static/runtime/main-3cba485e204ae9e63592.js"
+      ],
+      "css": [
+        "static/css/858e7ff8.css"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/chunks/commons.51340123.js",
+        "static/runtime/polyfill-715f10aabbd0a3c231ac.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/chunks/commons.51340123.js",
+        "static/runtime/sentry-3f76d212203c5472cced.js"
+      ]
+    }
+  },
+  "bundles": {
+    "framework": "static/chunks/framework.646a2496.js",
+    "static/runtime/main": "static/runtime/main-3cba485e204ae9e63592.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-715f10aabbd0a3c231ac.js",
+    "static/runtime/sentry": "static/runtime/sentry-3f76d212203c5472cced.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.ebf84b85.js"
+      ],
+      "children": [
+        {
+          "id": "h1ce",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/about?shuvi-route": {
+      "files": [
+        "static/chunks/page-d9d0.2d8b482d.js"
+      ],
+      "children": [
+        {
+          "id": "BObw",
+          "name": "./src/pages/about.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/agreementDAppWallet?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-8375.1ddc235f.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "Snbk",
+          "name": "./src/pages/agreementDAppWallet.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/arabic?shuvi-route": {
+      "files": [
+        "static/chunks/page-6331.464ac214.js"
+      ],
+      "children": [
+        {
+          "id": "YGzU",
+          "name": "./src/pages/arabic.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/bankAntiFraudForm?shuvi-route": {
+      "files": [
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-0d83.aa7933ac.js"
+      ],
+      "children": [
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "375t",
+          "name": "./src/pages/bankAntiFraudForm.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/bankAntiFraudFormResult?shuvi-route": {
+      "files": [
+        "static/chunks/page-1b71.ec43daa1.js"
+      ],
+      "children": [
+        {
+          "id": "g7IF",
+          "name": "./src/pages/bankAntiFraudFormResult.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/bnb?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-7e14.80c85aef.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "eq7j",
+          "name": "./src/pages/bnb.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/bnbVault?shuvi-route": {
+      "files": [
+        "static/chunks/page-a325.6df31bc5.js"
+      ],
+      "children": [
+        {
+          "id": "aJgf",
+          "name": "./src/pages/bnbVault.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/buyCoin?shuvi-route": {
+      "files": [
+        "static/chunks/page-43ee.ac355be6.js"
+      ],
+      "children": [
+        {
+          "id": "hAar",
+          "name": "./src/pages/buyCoin.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/career/career?shuvi-route": {
+      "files": [
+        "static/chunks/page-4a47.47cf8a42.js"
+      ],
+      "children": [
+        {
+          "id": "sdh8",
+          "name": "./src/pages/career/career.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/career/department?shuvi-route": {
+      "files": [
+        "static/chunks/page-50e9.bebcc0a5.js"
+      ],
+      "children": [
+        {
+          "id": "/dyD",
+          "name": "./src/pages/career/department.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/career/jobDetail?shuvi-route": {
+      "files": [
+        "static/chunks/page-0744.6d643a81.js"
+      ],
+      "children": [
+        {
+          "id": "0vpe",
+          "name": "./src/pages/career/jobDetail.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/career/jobOpenings?shuvi-route": {
+      "files": [
+        "static/chunks/page-6d6a.c0904a9a.js"
+      ],
+      "children": [
+        {
+          "id": "Kncp",
+          "name": "./src/pages/career/jobOpenings.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/community?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-337f.7f2a4fc2.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "XdCk",
+          "name": "./src/pages/community.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/compliance?shuvi-route": {
+      "files": [
+        "static/chunks/page-f535.95d185a7.js"
+      ],
+      "children": [
+        {
+          "id": "VR5A",
+          "name": "./src/pages/compliance.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/connectDesktop?shuvi-route": {
+      "files": [
+        "static/chunks/page-5c91.ca8a3c5e.js"
+      ],
+      "children": [
+        {
+          "id": "BfZB",
+          "name": "./src/pages/connectDesktop.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/cookiePrivacy?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-2f5f.4ed5f352.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "zMVH",
+          "name": "./src/pages/cookiePrivacy.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/depositAirdrop?shuvi-route": {
+      "files": [
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-b86b.491724c2.js"
+      ],
+      "children": [
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "Ev7Z",
+          "name": "./src/pages/depositAirdrop.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/depositWithdrawStatus?shuvi-route": {
+      "files": [
+        "static/chunks/page-b24b.268561f5.js"
+      ],
+      "children": [
+        {
+          "id": "fViN",
+          "name": "./src/pages/depositWithdrawStatus.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/download?shuvi-route": {
+      "files": [
+        "static/chunks/page-b09f.93542fcd.js"
+      ],
+      "children": [
+        {
+          "id": "OeOv",
+          "name": "./src/pages/download.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/downloadBinanceAuthenticator?shuvi-route": {
+      "files": [
+        "static/chunks/page-171d.c852f4b8.js"
+      ],
+      "children": [
+        {
+          "id": "oBn7",
+          "name": "./src/pages/downloadBinanceAuthenticator.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/downloadTestFlight?shuvi-route": {
+      "files": [
+        "static/chunks/page-b262.e018546f.js"
+      ],
+      "children": [
+        {
+          "id": "PFTs",
+          "name": "./src/pages/downloadTestFlight.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/downloadTips?shuvi-route": {
+      "files": [
+        "static/chunks/page-9d23.27f1ff5b.js"
+      ],
+      "children": [
+        {
+          "id": "pgjX",
+          "name": "./src/pages/downloadTips.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/ecosystem?shuvi-route": {
+      "files": [
+        "static/chunks/page-f2a7.6612f8fd.js"
+      ],
+      "children": [
+        {
+          "id": "GhxA",
+          "name": "./src/pages/ecosystem.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/executionSolutions?shuvi-route": {
+      "files": [
+        "static/chunks/page-a6d4.390343e6.js"
+      ],
+      "children": [
+        {
+          "id": "ZP8z",
+          "name": "./src/pages/executionSolutions.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/executionSolutionsContactUs?shuvi-route": {
+      "files": [
+        "static/chunks/page-5ecc.16b1abe3.js"
+      ],
+      "children": [
+        {
+          "id": "izmy",
+          "name": "./src/pages/executionSolutionsContactUs.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/fee?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-00ee.90de593a.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "EmYQ",
+          "name": "./src/pages/fee.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/fiatPartnerListTerms?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-ada1.f89ddd52.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "EbdJ",
+          "name": "./src/pages/fiatPartnerListTerms.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/futuresServicesAgreement?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-f509.b60406b0.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "/N/N",
+          "name": "./src/pages/futuresServicesAgreement.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/inmail?shuvi-route": {
+      "files": [
+        "static/chunks/page-fc1b.1f73e351.js"
+      ],
+      "children": [
+        {
+          "id": "FvGX",
+          "name": "./src/pages/inmail.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/inmailDetail?shuvi-route": {
+      "files": [
+        "static/chunks/page-dcfb.08de3d48.js"
+      ],
+      "children": [
+        {
+          "id": "/YPy",
+          "name": "./src/pages/inmailDetail.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/keyAccountCoverage?shuvi-route": {
+      "files": [
+        "static/chunks/page-70fd.ecac4f5c.js"
+      ],
+      "children": [
+        {
+          "id": "PBXE",
+          "name": "./src/pages/keyAccountCoverage.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/login?shuvi-route": {
+      "files": [
+        "static/chunks/page-17fa.d0b13856.js"
+      ],
+      "children": [
+        {
+          "id": "TP9t",
+          "name": "./src/pages/login.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/markets?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-d276.b501416f.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "AeBJ",
+          "name": "./src/pages/markets.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/networkx?shuvi-route": {
+      "files": [
+        "static/chunks/page-70fb.368ca10b.js"
+      ],
+      "children": [
+        {
+          "id": "p+3x",
+          "name": "./src/pages/networkx.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/npsfeedback?shuvi-route": {
+      "files": [
+        "static/chunks/page-7cdb.51f5918d.js"
+      ],
+      "children": [
+        {
+          "id": "/vMb",
+          "name": "./src/pages/npsfeedback.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/officialVerification?shuvi-route": {
+      "files": [
+        "static/chunks/page-b478.3793290d.js"
+      ],
+      "children": [
+        {
+          "id": "w18m",
+          "name": "./src/pages/officialVerification.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/otcTrading?shuvi-route": {
+      "files": [
+        "static/chunks/page-40c5.23e786c8.js"
+      ],
+      "children": [
+        {
+          "id": "dCAi",
+          "name": "./src/pages/otcTrading.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/press?shuvi-route": {
+      "files": [
+        "static/chunks/page-3474.4480df0a.js"
+      ],
+      "children": [
+        {
+          "id": "a14P",
+          "name": "./src/pages/press.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/privacy?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-aa56.c569c2a6.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "TRXr",
+          "name": "./src/pages/privacy.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/redirect?shuvi-route": {
+      "files": [
+        "static/chunks/page-c9a4.ebc4e408.js"
+      ],
+      "children": [
+        {
+          "id": "ZaLw",
+          "name": "./src/pages/redirect.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/solarisbankPrivacy?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-6442.804e5846.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "47lr",
+          "name": "./src/pages/solarisbankPrivacy.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/terms?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-f717.73fc5d8b.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "iN67",
+          "name": "./src/pages/terms.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/testPage?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-6005.358660a7.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "+m82",
+          "name": "./src/pages/testPage.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/tradeRule?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-bf7d.d872525b.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "toOg",
+          "name": "./src/pages/tradeRule.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/vote/record?shuvi-route": {
+      "files": [
+        "static/chunks/page-66c8.cc212933.js"
+      ],
+      "children": [
+        {
+          "id": "f9ML",
+          "name": "./src/pages/vote/record.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/vote?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.db2236db.js",
+        "static/chunks/page-7cd0.5f1b3fb3.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "EISX",
+          "name": "./src/pages/vote/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/walletDirect?shuvi-route": {
+      "files": [
+        "static/chunks/a29ae703.447431e6.js",
+        "static/chunks/page-3ca2.45ecd905.js"
+      ],
+      "children": [
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "tSow",
+          "name": "./src/pages/walletDirect.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.zjgoVueEwj/web/apps/main-exchange-ui/src/pages/zone?shuvi-route": {
+      "files": [
+        "static/chunks/page-0b97.85b8769b.js"
+      ],
+      "children": [
+        {
+          "id": "RNtK",
+          "name": "./src/pages/zone.js?shuvi-route"
+        }
+      ]
+    },
+    "@lottiefiles/lottie-player": {
+      "files": [
+        "static/chunks/defa964d.4139d781.js"
+      ],
+      "children": [
+        {
+          "id": "ZygV",
+          "name": "../../node_modules/@lottiefiles/lottie-player/dist/lottie-player.esm.js"
+        }
+      ]
+    }
+  }
+}

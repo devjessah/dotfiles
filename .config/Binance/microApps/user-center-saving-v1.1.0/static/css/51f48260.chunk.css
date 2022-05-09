@@ -1,0 +1,64 @@
+.bnc-date-picker-container,
+.bnc-date-picker {
+  z-index: 1999999;
+  padding: 0;
+}
+
+.bnc-date-picker-range {
+  width: 100%;
+}
+
+.bnc-date-picker-range .bnc-date-picker-in-range-cell .bnc-date-picker-date {
+  width: auto;
+}
+
+.bnc-date-picker-date {
+  width: auto !important;
+}
+
+.bnc-date-picker-range-part {
+  padding: 0 5px;
+}
+
+.bnc-date-picker-footer {
+  padding: 0 10px;
+}
+
+.bnc-input-wrapper .bnc-input {
+  font-family: BinancePlex, Arial, 'PingFangSC-Regular', 'Microsoft YaHei', sans-serif !important;
+}
+
+.rc-table-content {
+  overflow-y: auto;
+}
+
+.rc-table-content .hide {
+  border-left: 1px solid #eaecef;
+}
+
+.liquidation-history-table .rc-table-expanded-row .rc-table-cell {
+  padding: 0;
+}
+.with-scroll ::-webkit-scrollbar {
+  width: 10px;
+  height: 5px;
+}
+
+.with-scroll ::-webkit-scrollbar-track {
+  border-radius: 0;
+  background: #e6e6e6;
+}
+
+.with-scroll ::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background: #c2c2c2;
+}
+
+.with-scroll ::-webkit-scrollbar-thumb:window-inactive {
+  background: #ddd;
+}
+
+.with-scroll ::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}
+

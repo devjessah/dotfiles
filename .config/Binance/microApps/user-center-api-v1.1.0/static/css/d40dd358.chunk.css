@@ -1,0 +1,187 @@
+.bnc-notification-fade-enter {
+  opacity: 0;
+  -webkit-animation-duration: 0.3s;
+          animation-duration: 0.3s;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  -webkit-animation-timing-function: cubic-bezier(0.55, 0, 0.55, 0.2);
+          animation-timing-function: cubic-bezier(0.55, 0, 0.55, 0.2);
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+.bnc-notification-fade-leave {
+  -webkit-animation-duration: 0.3s;
+          animation-duration: 0.3s;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  -webkit-animation-timing-function: cubic-bezier(0.55, 0, 0.55, 0.2);
+          animation-timing-function: cubic-bezier(0.55, 0, 0.55, 0.2);
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+.bnc-notification-fade-enter.bnc-notification-fade-enter-active {
+  -webkit-animation-name: rcNotificationFadeIn;
+          animation-name: rcNotificationFadeIn;
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+}
+.bnc-notification-fade-leave.bnc-notification-fade-leave-active {
+  -webkit-animation-name: rcDialogFadeOut;
+          animation-name: rcDialogFadeOut;
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+}
+@-webkit-keyframes rcNotificationFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes rcNotificationFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes rcDialogFadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes rcDialogFadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.bnc-notification-slide-enter {
+  -webkit-animation-name: rcNoticeSlideIn;
+          animation-name: rcNoticeSlideIn;
+  -webkit-animation-duration: 0.3s;
+          animation-duration: 0.3s;
+  -webkit-animation-timing-function: ease-in-out;
+          animation-timing-function: ease-in-out;
+}
+.bnc-notification-slide-leave {
+  -webkit-animation-name: rcNoticeSlideOut;
+          animation-name: rcNoticeSlideOut;
+  -webkit-animation-duration: 0.3s;
+          animation-duration: 0.3s;
+  -webkit-animation-timing-function: ease-in-out;
+          animation-timing-function: ease-in-out;
+}
+@-webkit-keyframes rcNoticeSlideIn {
+  0% {
+    transform: translateX(120%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+@keyframes rcNoticeSlideIn {
+  0% {
+    transform: translateX(120%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+@-webkit-keyframes rcNoticeSlideOut {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(120%);
+  }
+}
+@keyframes rcNoticeSlideOut {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(120%);
+  }
+}
+.bnc-notification {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  z-index: 1005;
+  top: 20px;
+  right: 20px;
+  box-sizing: border-box;
+}
+.bnc-notification-notice {
+  padding: 15px;
+  border-radius: 3px 3px;
+  border: 1px solid #999;
+  box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.2);
+  border: 0px solid rgba(0, 0, 0, 0);
+  background: #fff;
+  margin: 10px;
+  position: relative;
+}
+.bnc-notification-notice-closable {
+  padding-right: 20px;
+}
+.bnc-notification-notice-close {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  color: #000;
+  cursor: pointer;
+  outline: none;
+  font-size: 28px;
+  line-height: 16px;
+  box-sizing: border-box;
+  text-shadow: 0 1px 0 #fff;
+  text-decoration: none;
+  font-family: 'DINPro', 'IBMPlexSans-Regular', -apple-system, 'PingFang  SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, 'Segoe UI', sans-serif;
+}
+.bnc-notification-notice-close-x:after {
+  content: '×';
+}
+.bnc-notification-notice-close:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  text-decoration: none;
+}
+.bnc-notification-content {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  word-break: break-word;
+  padding-right: 15px;
+}
+.bnc-notification-content svg {
+  height: 18px;
+  width: 18px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+.bnc-notification-success {
+  background-color: #d8f3e7;
+  box-shadow: 0px 10px 20px 0px rgba(0, 192, 135, 0.1);
+  color: #00c087;
+}
+.bnc-notification-success .bnc-notification-notice-close {
+  color: #00c087;
+}
+.bnc-notification-fail {
+  background-color: #ffd9dd;
+  box-shadow: 0px 10px 20px 0px rgba(0, 192, 135, 0.1);
+  color: #f23051;
+}
+.bnc-notification-fail .bnc-notification-notice-close {
+  color: #f23051;
+}
+

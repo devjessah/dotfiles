@@ -1,0 +1,4 @@
+#!/bin/sh
+
+paplay --volume=43690 ~/.config/dunst/whistle.ogg
+

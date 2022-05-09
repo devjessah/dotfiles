@@ -2,7 +2,8 @@
 
 # autostart
 pgrep -x sxhkd > /dev/null || sxhkd &
-$HOME/.config/polybar/launch.sh
+$HOME/.config/polybar/launch.sh &
+$HOME/.config/dunst/eyes.sh &
 xrdb merge ~/.Xresources &
 feh --bg-fill ~/Pictures/Wallpaper/01.jpg &
 xsetroot -cursor_name left_ptr
@@ -10,8 +11,7 @@ picom &
 dunst &
 udiskie &
 
-
-bspc monitor -d 1 2 3 4 5 6
+bspc monitor -d 1 2 3 4
 
 bspc config border_width         2
 bspc config window_gap           5
@@ -20,13 +20,13 @@ bspc config split_ratio          0.52
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
-bspc rule -a firefox desktop='^1'
-bspc rule -a Brave-browser desktop='^3'
+bspc rule -a firefox desktop='^1' follow=on
+bspc rule -a Brave-browser desktop='^2'
 bspc rule -a "Anchor Wallet" desktop='^1' state=floating follow=on
 bspc rule -a Binance desktop='^6'
 bspc rule -a Galculator state=floating center=true
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
-bspc rule -a Thunar desktop='^3'
+bspc rule -a Thunar desktop='^3' follow=on
 
 

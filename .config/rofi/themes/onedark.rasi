@@ -1,5 +1,5 @@
 * {
-    bg-col:  #23272A;
+    bg-col: #22262c;
     bg-col-light: #282c34;
     border-col: #282c34;
     selected-col: #282c34;
@@ -9,3 +9,4 @@
     grey: #565c64;
     width: 600;
 }
+

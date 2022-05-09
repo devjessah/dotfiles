@@ -1,0 +1,345 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/runtime/main-ef38dc159eb166df264d.js"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/runtime/polyfill-1d8e2d30da9d79fbf16f.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/runtime/sentry-585d1c5b0f6db41c3817.js"
+      ]
+    },
+    "saving": {
+      "js": [
+        "static/chunks/saving-remoteEntrydd9629ee754aa9dc7793ca9e9c414d86aeca7500.js"
+      ]
+    }
+  },
+  "bundles": {
+    "static/runtime/main": "static/runtime/main-ef38dc159eb166df264d.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-1d8e2d30da9d79fbf16f.js",
+    "static/runtime/sentry": "static/runtime/sentry-585d1c5b0f6db41c3817.js",
+    "saving": "static/chunks/saving-remoteEntrydd9629ee754aa9dc7793ca9e9c414d86aeca7500.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "./pages/asset/Asset": {
+      "files": [
+        "static/css/51f48260.chunk.css",
+        "static/chunks/881.733f3729.js"
+      ],
+      "children": [
+        {
+          "id": "b/90",
+          "name": "./pages/asset/Asset.js"
+        }
+      ]
+    },
+    "./pages/history/AutoInvest": {
+      "files": [
+        "static/css/4ade4418.chunk.css",
+        "static/chunks/507.e1f8063c.js"
+      ],
+      "children": [
+        {
+          "id": "CV9R",
+          "name": "./pages/history/AutoInvest/index.tsx"
+        }
+      ]
+    },
+    "./pages/history/DOTSlotAuction": {
+      "files": [
+        "static/css/4ade4418.chunk.css",
+        "static/chunks/52.7402bab4.js"
+      ],
+      "children": [
+        {
+          "id": "MTWr",
+          "name": "./pages/history/DOTSlotAuction/index.tsx"
+        }
+      ]
+    },
+    "./pages/history/Dual": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/734.41304b48.js"
+      ],
+      "children": [
+        {
+          "id": "Fbj6",
+          "name": "./pages/history/Dual.js"
+        }
+      ]
+    },
+    "./pages/history/ETH2": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/409.9877fb63.js"
+      ],
+      "children": [
+        {
+          "id": "+DuA",
+          "name": "./pages/history/ETH2.js"
+        }
+      ]
+    },
+    "./pages/history/Launchpool": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/34.9ce643ca.js"
+      ],
+      "children": [
+        {
+          "id": "RgdT",
+          "name": "./pages/history/Launchpool.js"
+        }
+      ]
+    },
+    "./pages/history/Savings": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/986.b7aa7828.js"
+      ],
+      "children": [
+        {
+          "id": "jfFJ",
+          "name": "./pages/history/Savings.js"
+        }
+      ]
+    },
+    "./pages/history/Staking": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/459.b5de08b2.js"
+      ],
+      "children": [
+        {
+          "id": "w5vz",
+          "name": "./pages/history/Staking.js"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/.shuvi/app/bootstrap": {
+      "files": [
+        "static/chunks/184.11491e6f.js"
+      ],
+      "children": [
+        {
+          "id": "SKMY",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/shuvi-preset-binance/dist/lib/utils/sentry-global.js"
+        },
+        {
+          "id": "4KmO",
+          "name": "./.shuvi/app/bootstrap.js"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.b0a599a2.js"
+      ],
+      "children": [
+        {
+          "id": "h1ce",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/asset/Asset?shuvi-route": {
+      "files": [
+        "static/css/51f48260.chunk.css",
+        "static/chunks/page-mainucsaving-ui-Asset.ec34e52b.js"
+      ],
+      "children": [
+        {
+          "id": "b2Kw",
+          "name": "./pages/asset/Asset.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/AutoInvest?shuvi-route": {
+      "files": [
+        "static/css/4ade4418.chunk.css",
+        "static/chunks/page-mainucsaving-ui-AutoInvest.5a8fd52b.js"
+      ],
+      "children": [
+        {
+          "id": "P0mq",
+          "name": "./pages/history/AutoInvest/index.tsx?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/DOTSlotAuction?shuvi-route": {
+      "files": [
+        "static/css/4ade4418.chunk.css",
+        "static/chunks/page-mainucsaving-ui-DOTSlotAuction.5335332e.js"
+      ],
+      "children": [
+        {
+          "id": "2Dcz",
+          "name": "./pages/history/DOTSlotAuction/index.tsx?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/Dual?shuvi-route": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/page-mainucsaving-ui-Dual.265b106b.js"
+      ],
+      "children": [
+        {
+          "id": "Clc/",
+          "name": "./pages/history/Dual.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/ETH2?shuvi-route": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/page-mainucsaving-ui-ETH2.feff93da.js"
+      ],
+      "children": [
+        {
+          "id": "tPsm",
+          "name": "./pages/history/ETH2.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/Launchpool?shuvi-route": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/page-mainucsaving-ui-Launchpool.da727502.js"
+      ],
+      "children": [
+        {
+          "id": "q7AX",
+          "name": "./pages/history/Launchpool.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/Savings?shuvi-route": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/page-mainucsaving-ui-Savings.8eb77f0a.js"
+      ],
+      "children": [
+        {
+          "id": "ODQ6",
+          "name": "./pages/history/Savings.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.XHadpfArMb/web/apps/mainuc-saving-ui/pages/history/Staking?shuvi-route": {
+      "files": [
+        "static/css/56cc8fa2.chunk.css",
+        "static/chunks/page-mainucsaving-ui-Staking.c785215a.js"
+      ],
+      "children": [
+        {
+          "id": "Sk0U",
+          "name": "./pages/history/Staking.js?shuvi-route"
+        }
+      ]
+    },
+    "@lottiefiles/lottie-player": {
+      "files": [
+        "static/chunks/233.3ce45f03.js"
+      ],
+      "children": [
+        {
+          "id": "ZygV",
+          "name": "../../node_modules/@lottiefiles/lottie-player/dist/lottie-player.esm.js"
+        }
+      ]
+    },
+    "undefined": {
+      "files": [
+        "static/chunks/897.82d8ef11.js",
+        "static/css/5fac97d3.chunk.css",
+        "static/chunks/840.b719be88.js",
+        "static/chunks/134.c8b7b449.js",
+        "static/chunks/370.d46b9123.js",
+        "static/chunks/682.13fe3f99.js",
+        "static/chunks/700.497a9faf.js",
+        "static/chunks/154.8ce94815.js",
+        "static/chunks/352.cb97cdbd.js",
+        "static/chunks/635.7b63ee13.js",
+        "static/chunks/415.3b6c5c6c.js",
+        "static/chunks/428.15bff382.js",
+        "static/chunks/933.7e58c0c8.js",
+        "static/chunks/517.7a043b2d.js",
+        "static/chunks/823.5ed8ae2a.js",
+        "static/chunks/899.4711c9ae.js",
+        "static/chunks/76.66e173d7.js",
+        "static/chunks/643.7c457b49.js",
+        "static/chunks/41.7195acc8.js",
+        "static/chunks/101.29c0c8fb.js",
+        "static/chunks/378.3e37bcb2.js",
+        "static/chunks/397.5f2795db.js",
+        "static/chunks/484.66a36e2a.js",
+        "static/chunks/155.4d2008ab.js",
+        "static/chunks/468.16d31467.js"
+      ],
+      "children": [
+        {
+          "id": "hMwM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/http/dist/esm/index.js"
+        },
+        {
+          "id": "haaz",
+          "name": "../../libs/mainuc-shared/index.js"
+        },
+        {
+          "id": "laXO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/model/dist/esm/index.js"
+        },
+        {
+          "id": "g+oI",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/simple-widget/dist/esm/index.js"
+        },
+        {
+          "id": "4WBY",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/index.js"
+        },
+        {
+          "id": "/HTv",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-theme/dist/esm/index.js"
+        },
+        {
+          "id": "FTRK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/eb1a1a19737649f11270b9b1c56e9da9/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/index.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "z/Z1",
+          "name": "../../node_modules/emotion-theming/dist/emotion-theming.browser.esm.js"
+        },
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "Iaxg",
+          "name": "../../node_modules/react-i18next/dist/es/index.js"
+        },
+        {
+          "id": "daAW",
+          "name": "../../node_modules/react-router-dom/esm/react-router-dom.js"
+        },
+        {
+          "id": "mPIB",
+          "name": "../../node_modules/react-router/esm/react-router.js"
+        }
+      ]
+    }
+  }
+}

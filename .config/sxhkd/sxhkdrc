@@ -24,9 +24,13 @@ super + shift + f
 super + f
 	st -e ranger 
 	
-# launch gedit
+# launch text editor
 super + e
 	gedit
+
+# launch IDE
+super + n
+  {st -e nvim}
 
 # launch calculator
 super + c
@@ -34,7 +38,7 @@ super + c
 
 # launch music player
 super + m
-	st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
+  st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
 
 # working launch music player
 #super + m

@@ -1,0 +1,102 @@
+{
+	"user-center-saving": {
+		"appName": "user-center-saving",
+		"appVersion": "1.1.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/mainuc-saving-ui/mainuc-saving-ui-b838d48d61b6d9387c4e4317d99358f9.zip",
+		"sign": "LtirTlzaP4k4bhVGzwZ7PKgVhofH5F3lAonkGFuPvt1Ocd7IrVPvE2HiO0i5+CaWb1v8xzuT6rlktnThKgS6/JYOkZNcVkQpJtiSzdApTRjqBYALz/uPZQHh9AAJJIQ9AjS1W/S+sHw6e2tH76nIhg0ducvAE54wH/4yuakZ4hSA7N6+0qmtkSskgiquoeQ0OHXxjR/NGGxD1wfF82+nPQHEeiv4jHc4F+W2Uzn7NV16cho9d8bua42/1Q1cG6fCSvMqzjIhFABQQlqIUg4xjC2h8w8Lz8FZ7U6PppIF1UYBgeEEEks0qwJo6j2PbTk/4tq5uJBwY+baoOcP7SvNvw==",
+		"releaseDate": 1651109477000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/user-center-saving-v1.1.0"
+	},
+	"user-center-wallet": {
+		"appName": "user-center-wallet",
+		"appVersion": "1.4.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/mainuc-wallet-ui/mainuc-wallet-ui-c1b7a99a8cfc5f712dd54ed017fcc097.zip",
+		"sign": "G5Wm90+EmEOEAz+TPWbkB/1xl+obMKkRXNNfaP8JN9fPe7xPXQ3VJL8FrjJWGPaq2TRwiSjmS2KxetYa9F8s/fvtx08ZwSeXQIysKGpuBwzRqJIz1lb1nKLss+25aV96kyHRT76zjusqTUwNO0piANDD0ZZz89hZwmXZe+83f88uAHr8FqF40SQqIUHgmU0UiaE4wlh+t9U8BDlh6MPUCjpiNbkQfZe70t6a/CJNuJ9qMwk2FYipU1KrPCuhY7UuLRMH8dr/NeM1ufJHCzM8JkJTVpwF1E+gsR3vApLFCFj1t/Y4dsEGGsDEis5H40Cu2lQQYWnjHi55LXGfhVxeqQ==",
+		"releaseDate": 1651138264000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/user-center-wallet-v1.4.0"
+	},
+	"trade-spot": {
+		"appName": "trade-spot",
+		"appVersion": "1.7.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/spot-trade-ui/spot-trade-ui-045b46fd8604a5a7f4ad9bcdaedc2e8b.zip",
+		"sign": "vcL+Cr9QItrPfjbzKG4AXuQ/+gWSzvBeCs+lNucODZPuCuJZBlXt3HlNYGou+YRd70pGhHxFNPsKlxhxEhKXs5U9Dw+iJwkxJdskNeCP7mgkEM5lVpsNuOCNcfjAXXQbsc5Hoxks67aoV1/fwcd0F/6GjPK9NgSkuUY3vkE6Nv472XdrCnFm5ChEwpgaGcm2WhMOjD5Fdyuv/fsFTbxgl3BDeEx5YzVLmiUSNjI63KSuaXhR3ySR+FISisOqU2yRSqGhQBH4VSb6qJXAxsFNwzdWPGbsI8LVZIlZAQ0D6WkrjEb/KXvNWszfHhL82Yu3a7iaf1ypW5c/yeWTUCmS+g==",
+		"releaseDate": 1650883147000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/trade-spot-v1.7.0"
+	},
+	"main-exchange": {
+		"appName": "main-exchange",
+		"appVersion": "1.0.1",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/main-exchange-ui/main-exchange-ui-aaba30169a895ab1109b54e0bec6726f.zip",
+		"sign": "fARzV4xfqPqjzG5PmKbnKyep7b5KJxd654GlaRx0/mhMgzkgwOnrTfsKKQ+JmiLFPWlvg2yAzLB8wv1QNp9E3SIz/X5Ji4u53T4GNd9cm3aum2D7WGBb8iolwEwl5ZdIcQqviGOgL/EJNyBMDuB43zNXSGDs9waHajt5uqHdPWjJr3FcgwYcO8KcXqD9iHuVLPpy4DK5+PY2V1jbJ6ByHYPryfaFvDRf0Ta9WKXqO+OnJONTM6NyZoE8d+HlcLgwuuQAxO0FyBptuyDqmflBKi48FGMeBH9zwuxl8p6uEumRLw2Ctt8ucJx1/hYfa47JRQ9xNBSRaz7+Po3Ky9IoPQ==",
+		"releaseDate": 1650013278000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/main-exchange-v1.0.1"
+	},
+	"launchpad": {
+		"appName": "launchpad",
+		"appVersion": "1.2.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/launchpad-ui/launchpad-ui-30cb32478e5df8abf749cea4a746c896.zip",
+		"sign": "lamoBOGI8oFi4ibekeEEssiAIhMPDJBh6mic5gX5XiV34dDRLrt4gYGxsYkJ7rUXcTRWsjK77AjYynsJJ8sRIrgKmmJlJXuUcE/iS9E6IFDutcBkXkUdL+tNnMk7h2AxE5Pn1YbI5Aw/PtPnqK779yEIFtCyoLZ5YLgYXOrSswF/Qg7mZLCa4APAVQ0cuYLJg2/4/v02KfP4vbvrjTXYQnGO35LLFRNKvZrFT0HZsm8nol2j7HZtI7phDXjjpEdTVp0+hNpcKzn6ayGyOYgik997YHe/CMJkiBCKi9OebaA3SIOWRGFou2y+oeLisacLN2+Vv+DdvplHtDAQQRKGYA==",
+		"releaseDate": 1651109964000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/launchpad-v1.2.0"
+	},
+	"trade-futures": {
+		"appName": "trade-futures",
+		"appVersion": "1.2.1",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/futures-trade-ui/futures-trade-ui-6707e5438a3788ae3e8bd4896a7d6966.zip",
+		"sign": "GwUyT6WRl/zQZ/+wWmP+c6E34QiKPh5G72fJ5WQqIJPyeJI+ZUD5SbK9WG2TTfLL0hJj78cHauw40vaBplsQf1DSt4XgnfBtz9DlZkXJ8jXDlG0JttU/cbqmn3T8D/2mYoBR6bdTAyCY1PJKL1sflBUf3BglobaguNqxVXhbZSAFLRDIOuisEQOHGPy+DeQ0vY6TUvNKmtKR/X0MZyPRmf7WA4mnhRe4EMgTzYS3Dbcat7jI9KK3pfuLX5pS+bruFp3VvbHREjXpfHYGeHg4Wej+GZDWDLF04o/248n5C7GNj4rWpj5xJujx5GLBumt1OQ5xl6FWOg48o+thAzhOKg==",
+		"releaseDate": 1651829801000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/trade-futures-v1.2.1"
+	},
+	"user-center-margin": {
+		"appName": "user-center-margin",
+		"appVersion": "1.1.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/mainuc-margin-ui/mainuc-margin-ui-ae5ad010421ae86c9c225a468128d327.zip",
+		"sign": "SSJ2ESsem9NuyQwc4fz6mjcqcyEWimIJcsoHY9JiqmZujIvEyjcky6tFo9f5tqGGa76a2V6KKlJHk6rAE22QZUa723rcFz7p11wI6oAThsbVzcVEojd2jkzNej9/nN89qdhJJSInH0Kvb7n0mOP18oFJdCdoSnowdv4/0KxG9FQiCBm4Bx1vglRgAIVOa4lmZOfHiq7BAd520a/kG06K1ruk6IDon2VVZn39BACaaqxVhtx92ktrs1eyhbxfOZVuCfo6ACB2Ekf9sWWMbq0X0POK+BLuEUvD+mFv8uwTvKRMaaIogaPfoDhigp9ciHLOS9CV3vRlm1sYyiSV7X5g3A==",
+		"releaseDate": 1649419382000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/user-center-margin-v1.1.0"
+	},
+	"savings": {
+		"appName": "savings",
+		"appVersion": "1.2.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/lending-ui/lending-ui-1dbbad0a472909d7641e7ab39553740e.zip",
+		"sign": "d6XBuOQyZ/4zFyBguL7TFV0poUgFOvmMP54YBXHSI6IcMH6Xm2GqhltS+FkKfFNFsIwj6L3WIMGLtaJ7JpUJ1d6pimt6ZQ/iFM0LkmdwfrvKs4XSTcymBHLG3dxEuW5GOocHZVHiEQMT/WTQJQrOv4rMiB6zLMz1A4iSYb7cm17XRQdqqksp/1t8iBo7iSiuR3EaMdXohOFdK9N7RhdtXe5zCKprAk5KAYFWPxtSd378zy/ggPQe70X0+nPwKqUiVv4g6TuHorgpSs++ZXfzNre0pOr/pc+RT7nIeQcsrrFELPMc0lMsXypLAELWlTy1y+PTjPek8+ephlTgNPgvSQ==",
+		"releaseDate": 1650607113000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/savings-v1.2.0"
+	},
+	"user-center-api": {
+		"appName": "user-center-api",
+		"appVersion": "1.1.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/mainuc-apimanagement-ui/mainuc-apimanagement-ui-4714a63da084a6a0777d8b7123879231.zip",
+		"sign": "f1jAQqbEJ4pU9h8DKXH3sy2+y80v/Wlo+MtjaD5mHHoohsk8pFwa7RRGsWhgfE8y0yD/OqOT4Hn2pozPvZw5I/x9yRlXr7+36N6c5x3GQOokF4NvCR+BCEtMJT/tk/c4A7bukKQu1uxuwJY4L3EmmByTo1wrh+gLqvUj+lD6xNu98OFrCq7qegmc0oDZVUK3X4GCc+tOmaARv0INR2hCFYhK8jWTIE2o9T4CXbYZxcpjLCdK7iSPqt/TR7AnZ/a89g1Yn11XPLqlvBCojh9aB8JiKCWgpmGMP66YHr+q+9ZDW0kgx/44rNkF+xehtsrt3JsA5Nyjy67KwqUlSqtrCQ==",
+		"releaseDate": 1651109697000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/user-center-api-v1.1.0"
+	},
+	"user-center-spot": {
+		"appName": "user-center-spot",
+		"appVersion": "1.1.0",
+		"version": "1.6.0",
+		"url": "https://ftp.binance.com/electron-desktop-business/mainuc-spot-ui/mainuc-spot-ui-b354906f10ec1b8ebcfeec801698a5bd.zip",
+		"sign": "Pay+XFSci00UyVTvMZzVroTSkAn9lge7X3xGOanAdTdSLj3bWYF7S2znOgcc79OmRKGKj0QjRVSKV7jhW3O87dFWs92USl6k4xdKoD++zcftKI/yQZEgx6nx7V36R7C25hv1pZlHlN2jYLXQqn0Fpx4Q6/ZRcosFFI4F7yujQNLgXx4H/ijEUnnL7bggMF6TDqBhW1rdOZgnCkR0Eq3ETdlttComZlLJivi8CuRHQpr/13eIP4dh9qumpvOuNcLmu136srq6zikR8PDXeDQarTswVl1hbs7qNqKN8H07sbx4WBc0JmtqC9VuGgPhButuFgFm8Epul1Zoi6Udj69ONA==",
+		"releaseDate": 1649419440000,
+		"gray": false,
+		"localPath": "/home/sheetal/.config/Binance/microApps/user-center-spot-v1.1.0"
+	}
+}

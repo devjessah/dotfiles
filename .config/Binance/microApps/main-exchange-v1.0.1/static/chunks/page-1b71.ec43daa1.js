@@ -1,0 +1,1 @@
+(self["webpackJsonp_main-exchange"]=self["webpackJsonp_main-exchange"]||[]).push([[1867],{g7IF:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>o});var s=t("/SIk"),a=t.n(s),c=t("l4n0"),l=t("NyND"),p=t("1+p3"),r=t("Obc2"),u=a().createElement;function i(){const{lng:e,status:n}=(0,c.UO)();return u(r.Z,{status:n})}i.getInitialProps=p.Z;const o=(0,l.Le)()(i)}}]);

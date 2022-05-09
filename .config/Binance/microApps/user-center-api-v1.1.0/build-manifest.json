@@ -1,0 +1,176 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/runtime/main-65432d9fbf207b66248d.js"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/runtime/polyfill-b46710755d21116caff2.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/runtime/sentry-8635587f24059477167b.js"
+      ]
+    },
+    "apimanagement": {
+      "js": [
+        "static/chunks/apimanagement-remoteEntry0ef19aa0a805092c320e0b8c2c523e571c9fd1b6.js"
+      ]
+    }
+  },
+  "bundles": {
+    "static/runtime/main": "static/runtime/main-65432d9fbf207b66248d.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-b46710755d21116caff2.js",
+    "static/runtime/sentry": "static/runtime/sentry-8635587f24059477167b.js",
+    "apimanagement": "static/chunks/apimanagement-remoteEntry0ef19aa0a805092c320e0b8c2c523e571c9fd1b6.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "./pages": {
+      "files": [
+        "static/css/d40dd358.chunk.css",
+        "static/chunks/528.3d7262d3.js"
+      ],
+      "children": [
+        {
+          "id": "jaqB",
+          "name": "./pages/index.js"
+        }
+      ]
+    },
+    "/tmp/tmp.Y5iECHcfJm/web/apps/mainuc-apimanagement-ui/.shuvi/app/bootstrap": {
+      "files": [
+        "static/chunks/184.eafc57ee.js"
+      ],
+      "children": [
+        {
+          "id": "dn++",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/shuvi-preset-binance/dist/lib/utils/sentry-global.js"
+        },
+        {
+          "id": "4KmO",
+          "name": "./.shuvi/app/bootstrap.js"
+        }
+      ]
+    },
+    "/tmp/tmp.Y5iECHcfJm/web/apps/mainuc-apimanagement-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.cc3c4f1d.js"
+      ],
+      "children": [
+        {
+          "id": "h1ce",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "@lottiefiles/lottie-player": {
+      "files": [
+        "static/chunks/233.f0a30171.js"
+      ],
+      "children": [
+        {
+          "id": "ZygV",
+          "name": "../../node_modules/@lottiefiles/lottie-player/dist/lottie-player.esm.js"
+        }
+      ]
+    },
+    "mainuc-apimanagement-ui/pages?shuvi-route": {
+      "files": [
+        "static/css/d40dd358.chunk.css",
+        "static/chunks/page-mainucapimanagement-ui-pages.4284fa9c.js"
+      ],
+      "children": [
+        {
+          "id": "x11G",
+          "name": "./pages/index.js?shuvi-route"
+        }
+      ]
+    },
+    "undefined": {
+      "files": [
+        "static/chunks/818.20036f25.js",
+        "static/css/5fac97d3.chunk.css",
+        "static/chunks/941.ac5be323.js",
+        "static/chunks/559.3ca12c64.js",
+        "static/chunks/587.a89f5e8b.js",
+        "static/chunks/104.36d013cd.js",
+        "static/chunks/265.ad5992d6.js",
+        "static/chunks/339.d128bc1a.js",
+        "static/chunks/352.4a4e270b.js",
+        "static/chunks/635.791b09bc.js",
+        "static/chunks/34.2b196f7b.js",
+        "static/chunks/428.2b07ead3.js",
+        "static/chunks/933.6d00b02b.js",
+        "static/chunks/517.577133a3.js",
+        "static/chunks/833.f721e3e6.js",
+        "static/chunks/950.7563ed46.js",
+        "static/chunks/297.4527af22.js",
+        "static/chunks/643.013e54cc.js",
+        "static/chunks/580.eeeba7da.js",
+        "static/chunks/630.79933472.js",
+        "static/chunks/204.9ecbd9a5.js",
+        "static/chunks/397.cce07425.js",
+        "static/chunks/868.09437bac.js",
+        "static/chunks/468.b95b39a1.js"
+      ],
+      "children": [
+        {
+          "id": "vS8t",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/http/dist/esm/index.js"
+        },
+        {
+          "id": "37xO",
+          "name": "../../libs/mainuc-shared/index.js"
+        },
+        {
+          "id": "pxWE",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/model/dist/esm/index.js"
+        },
+        {
+          "id": "sVMH",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/simple-widget/dist/esm/index.js"
+        },
+        {
+          "id": "JryB",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/index.js"
+        },
+        {
+          "id": "2c6d",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-theme/dist/esm/index.js"
+        },
+        {
+          "id": "QQZv",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/21ab0d16978dacff3b72f04e211a8937/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/index.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "z/Z1",
+          "name": "../../node_modules/emotion-theming/dist/emotion-theming.browser.esm.js"
+        },
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "Iaxg",
+          "name": "../../node_modules/react-i18next/dist/es/index.js"
+        },
+        {
+          "id": "daAW",
+          "name": "../../node_modules/react-router-dom/esm/react-router-dom.js"
+        },
+        {
+          "id": "mPIB",
+          "name": "../../node_modules/react-router/esm/react-router.js"
+        }
+      ]
+    }
+  }
+}

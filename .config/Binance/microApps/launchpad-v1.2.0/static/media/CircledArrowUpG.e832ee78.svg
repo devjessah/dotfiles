@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" class="css-1u678rw">
+<circle r="10" transform="matrix(1 0 0 -1 12 12)" fill="url(#circled-arrow-up-g_svg__paint0_linear)"></circle>
+<path d="M11.956 5.044l5.544 5.5-4.544-.044v8h-2v-8H6.5l5.456-5.456z" fill="#76808F"></path>
+<defs><linearGradient id="circled-arrow-up-g_svg__paint0_linear" x1="10" y1="0" x2="10" y2="20" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0B90B"></stop><stop offset="1" stop-color="#F8D33A"></stop></linearGradient>
+</defs>
+</svg>

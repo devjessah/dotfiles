@@ -1,0 +1,2892 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/chunks/vendor2.6cf3638b.js",
+        "static/chunks/shared.5bb08d60.js",
+        "static/chunks/framework.d804d7cd.js",
+        "static/chunks/a29ae703.4c57d82c.js",
+        "static/runtime/main-cb755fb6ca6a38ab6ed9.js"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/chunks/vendor2.6cf3638b.js",
+        "static/runtime/polyfill-8c72eb3097738bf8003f.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/chunks/vendor2.6cf3638b.js",
+        "static/runtime/sentry-883cd5ed52e2d111a631.js"
+      ]
+    }
+  },
+  "bundles": {
+    "framework": "static/chunks/framework.d804d7cd.js",
+    "a29ae703": "static/chunks/a29ae703.4c57d82c.js",
+    "static/runtime/main": "static/runtime/main-cb755fb6ca6a38ab6ed9.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-8c72eb3097738bf8003f.js",
+    "static/runtime/sentry": "static/runtime/sentry-883cd5ed52e2d111a631.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "%/components/AssetsCard": {
+      "files": [
+        "static/chunks/bnc~pl~31.0dcd0141.js"
+      ],
+      "children": [
+        {
+          "id": "S0Ie",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TransferF.js"
+        },
+        {
+          "id": "ruN6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Search/Search.js"
+        },
+        {
+          "id": "gLOn",
+          "name": "./src/delivery/components/AssetsCard/index.js"
+        }
+      ]
+    },
+    "%/components/HintDialog/battling": {
+      "files": [
+        "static/chunks/bnc~16.f701699d.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "OLE6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/OpenFuturesAccount/index.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "BxVK",
+          "name": "./src/delivery/components/HintDialog/battling.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        }
+      ]
+    },
+    "%/components/OrderBook": {
+      "files": [
+        "static/chunks/bnc~pl~27.f5487739.js"
+      ],
+      "children": [
+        {
+          "id": "nd4m",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Orderbook/index.js"
+        },
+        {
+          "id": "My+q",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ArrowDownF.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "tsuT",
+          "name": "./src/delivery/components/OrderBook/index.js"
+        }
+      ]
+    },
+    "%/components/Trades": {
+      "files": [
+        "static/chunks/bnc~pl~28.472ba7ea.js"
+      ],
+      "children": [
+        {
+          "id": "gIGE",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/widgets/useTrades.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "T4aT",
+          "name": "./src/delivery/components/Trades/index.tsx"
+        }
+      ]
+    },
+    "../OpeningCountdown": {
+      "files": [
+        "static/chunks/6869.c6ad33ac.js"
+      ],
+      "children": [
+        {
+          "id": "bpzZ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/components/OpeningCountdown/index.js"
+        }
+      ]
+    },
+    "../Symbols": {
+      "files": [
+        "static/chunks/bnc~pl~3.603cf032.js"
+      ],
+      "children": [
+        {
+          "id": "FpKl",
+          "name": "./src/multipleChart/Symbols.js"
+        }
+      ]
+    },
+    "./Assets": {
+      "files": [
+        "static/chunks/bnc~44.036e510a.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "Uaot",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.tsx"
+        },
+        {
+          "id": "ggPg",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.pc.tsx"
+        },
+        {
+          "id": "12QR",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/PC/OrderHistory.pc.tsx"
+        },
+        {
+          "id": "GrNR",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.pc.tsx"
+        },
+        {
+          "id": "CQpL",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.pc.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./Assets.m": {
+      "files": [
+        "static/chunks/bnc~43.084f4dc1.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "Ubub",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditQuickF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "+tiw",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.m.tsx"
+        },
+        {
+          "id": "c/hh",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.m.tsx"
+        },
+        {
+          "id": "guan",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/Mobile/OrderHistory.m.tsx"
+        },
+        {
+          "id": "JcaH",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.m.tsx"
+        },
+        {
+          "id": "qYua",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.m.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./BasicKline": {
+      "files": [
+        "static/chunks/6200.9d7456e0.js"
+      ],
+      "children": [
+        {
+          "id": "nWyn",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/info.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "t3Ex",
+          "name": "./src/services/customIndicator.js"
+        },
+        {
+          "id": "SKkT",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/ModifyOrderConfirmModal.tsx"
+        },
+        {
+          "id": "Ozc/",
+          "name": "./src/utils/logan.ts"
+        }
+      ]
+    },
+    "./Camera": {
+      "files": [
+        "static/chunks/1312.9a1f1dd5.js"
+      ],
+      "children": [
+        {
+          "id": "//Am",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/Camera.js"
+        }
+      ]
+    },
+    "./ChartModeDropdown": {
+      "files": [
+        "static/chunks/4898.166273d3.js"
+      ],
+      "children": [
+        {
+          "id": "0wq9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/ChartModeDropdown.js"
+        }
+      ]
+    },
+    "./ChartStyleDropdown": {
+      "files": [
+        "static/chunks/9016.4f2aa9fa.js"
+      ],
+      "children": [
+        {
+          "id": "r51u",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/ChartStyleDropdown.js"
+        }
+      ]
+    },
+    "./Close": {
+      "files": [
+        "static/chunks/3591.c215fd43.js"
+      ],
+      "children": [
+        {
+          "id": "lEdl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/Close.js"
+        }
+      ]
+    },
+    "./Compare": {
+      "files": [
+        "static/chunks/1431.e1232970.js"
+      ],
+      "children": [
+        {
+          "id": "zkr0",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/Compare.js"
+        }
+      ]
+    },
+    "./DeliverySubHeader": {
+      "files": [
+        "static/chunks/bnc~pl~5.05fddcfd.js"
+      ],
+      "children": [
+        {
+          "id": "573e",
+          "name": "./src/multipleChart/futures/DeliverySubHeader.js"
+        }
+      ]
+    },
+    "./Fullscreen": {
+      "files": [
+        "static/chunks/4328.32f3f97e.js"
+      ],
+      "children": [
+        {
+          "id": "XaPO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/Fullscreen.js"
+        }
+      ]
+    },
+    "./FuturesSubHeader": {
+      "files": [
+        "static/chunks/bnc~pl~4.863aafed.js"
+      ],
+      "children": [
+        {
+          "id": "lzQt",
+          "name": "./src/multipleChart/futures/FuturesSubHeader.js"
+        }
+      ]
+    },
+    "./HeaderMedium": {
+      "files": [
+        "static/chunks/8871.c2f267dc.js"
+      ],
+      "children": [
+        {
+          "id": "2TzD",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/HeaderMedium.js"
+        }
+      ]
+    },
+    "./HeaderSmall": {
+      "files": [
+        "static/chunks/2672.8ea9eb79.js"
+      ],
+      "children": [
+        {
+          "id": "VAhD",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/HeaderSmall.js"
+        }
+      ]
+    },
+    "./Indicator": {
+      "files": [
+        "static/chunks/5711.69f4b3ea.js"
+      ],
+      "children": [
+        {
+          "id": "kuEs",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/Indicator.js"
+        }
+      ]
+    },
+    "./IntervalFilterExtraSmall": {
+      "files": [
+        "static/chunks/3300.021bb426.js"
+      ],
+      "children": [
+        {
+          "id": "HAmw",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/IntervalFilterExtraSmall.js"
+        }
+      ]
+    },
+    "./IntervalFilterMedium": {
+      "files": [
+        "static/chunks/6354.88da6f63.js"
+      ],
+      "children": [
+        {
+          "id": "gSzm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/IntervalFilterMedium.js"
+        }
+      ]
+    },
+    "./IntervalFilterSmall": {
+      "files": [
+        "static/chunks/9575.5db234cd.js"
+      ],
+      "children": [
+        {
+          "id": "l/bv",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/IntervalFilterSmall.js"
+        }
+      ]
+    },
+    "./IntervalFilterSmall2": {
+      "files": [
+        "static/chunks/5233.b47d4923.js"
+      ],
+      "children": [
+        {
+          "id": "M8um",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/IntervalFilterSmall2.js"
+        }
+      ]
+    },
+    "./MiniMultiChartManager": {
+      "files": [
+        "static/chunks/1041.3f14b615.js"
+      ],
+      "children": [
+        {
+          "id": "gSlY",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/MiniMultiChartManager/index.js"
+        }
+      ]
+    },
+    "./MiniSymbolStatus": {
+      "files": [
+        "static/chunks/7146.3c66b21b.js"
+      ],
+      "children": [
+        {
+          "id": "oHZT",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/MiniSymbolStatus.js"
+        }
+      ]
+    },
+    "./Mobile/OrderHistory.m": {
+      "files": [
+        "static/chunks/bnc~43.084f4dc1.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "Ubub",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditQuickF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "+tiw",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.m.tsx"
+        },
+        {
+          "id": "c/hh",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.m.tsx"
+        },
+        {
+          "id": "guan",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/Mobile/OrderHistory.m.tsx"
+        },
+        {
+          "id": "JcaH",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.m.tsx"
+        },
+        {
+          "id": "qYua",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.m.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./OpenFuturesAccount": {
+      "files": [
+        "static/chunks/bnc~16.f701699d.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "OLE6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/OpenFuturesAccount/index.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "BxVK",
+          "name": "./src/delivery/components/HintDialog/battling.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        }
+      ]
+    },
+    "./OpenOrder.m": {
+      "files": [
+        "static/chunks/bnc~43.084f4dc1.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "Ubub",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditQuickF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "+tiw",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.m.tsx"
+        },
+        {
+          "id": "c/hh",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.m.tsx"
+        },
+        {
+          "id": "guan",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/Mobile/OrderHistory.m.tsx"
+        },
+        {
+          "id": "JcaH",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.m.tsx"
+        },
+        {
+          "id": "qYua",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.m.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./OpenOrder.pc": {
+      "files": [
+        "static/chunks/bnc~44.036e510a.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "Uaot",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.tsx"
+        },
+        {
+          "id": "ggPg",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.pc.tsx"
+        },
+        {
+          "id": "12QR",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/PC/OrderHistory.pc.tsx"
+        },
+        {
+          "id": "GrNR",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.pc.tsx"
+        },
+        {
+          "id": "CQpL",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.pc.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./OrderMark": {
+      "files": [
+        "static/chunks/5300.02a2db4d.js"
+      ],
+      "children": [
+        {
+          "id": "WAoT",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/OrderMark.js"
+        }
+      ]
+    },
+    "./PC/OrderHistory.pc": {
+      "files": [
+        "static/chunks/bnc~44.036e510a.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "Uaot",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.tsx"
+        },
+        {
+          "id": "ggPg",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.pc.tsx"
+        },
+        {
+          "id": "12QR",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/PC/OrderHistory.pc.tsx"
+        },
+        {
+          "id": "GrNR",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.pc.tsx"
+        },
+        {
+          "id": "CQpL",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.pc.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./Position.m": {
+      "files": [
+        "static/chunks/bnc~43.084f4dc1.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "Ubub",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditQuickF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "+tiw",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.m.tsx"
+        },
+        {
+          "id": "c/hh",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.m.tsx"
+        },
+        {
+          "id": "guan",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/Mobile/OrderHistory.m.tsx"
+        },
+        {
+          "id": "JcaH",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.m.tsx"
+        },
+        {
+          "id": "qYua",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.m.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./Position.pc": {
+      "files": [
+        "static/chunks/bnc~44.036e510a.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "Uaot",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.tsx"
+        },
+        {
+          "id": "ggPg",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.pc.tsx"
+        },
+        {
+          "id": "12QR",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/PC/OrderHistory.pc.tsx"
+        },
+        {
+          "id": "GrNR",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.pc.tsx"
+        },
+        {
+          "id": "CQpL",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.pc.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./PriceDropdown": {
+      "files": [
+        "static/chunks/4741.6855f3b9.js"
+      ],
+      "children": [
+        {
+          "id": "2UYq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/PriceDropdown.js"
+        }
+      ]
+    },
+    "./ResumeWindow": {
+      "files": [
+        "static/chunks/9698.b189ee36.js"
+      ],
+      "children": [
+        {
+          "id": "8Ral",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/ResumeWindow.js"
+        }
+      ]
+    },
+    "./SymbolTabs": {
+      "files": [
+        "static/chunks/8501.dedfa057.js"
+      ],
+      "children": [
+        {
+          "id": "OoZq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/SymbolTabs.js"
+        }
+      ]
+    },
+    "./Tabs": {
+      "files": [
+        "static/chunks/6491.f7f0f483.js"
+      ],
+      "children": [
+        {
+          "id": "nicx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Chart/containers/Toolbar/Tabs.js"
+        }
+      ]
+    },
+    "./TradeHistory.m": {
+      "files": [
+        "static/chunks/bnc~43.084f4dc1.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "Ubub",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditQuickF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "+tiw",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.m.tsx"
+        },
+        {
+          "id": "c/hh",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.m.tsx"
+        },
+        {
+          "id": "guan",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/Mobile/OrderHistory.m.tsx"
+        },
+        {
+          "id": "JcaH",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.m.tsx"
+        },
+        {
+          "id": "qYua",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.m.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./TradeHistory.pc": {
+      "files": [
+        "static/chunks/bnc~44.036e510a.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "Uaot",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.tsx"
+        },
+        {
+          "id": "ggPg",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.pc.tsx"
+        },
+        {
+          "id": "12QR",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/PC/OrderHistory.pc.tsx"
+        },
+        {
+          "id": "GrNR",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.pc.tsx"
+        },
+        {
+          "id": "CQpL",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.pc.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./TradingView": {
+      "files": [
+        "static/chunks/5600.f4ab2f45.js"
+      ],
+      "children": [
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "9tmi",
+          "name": "../../node_modules/formik/dist/formik.esm.js"
+        },
+        {
+          "id": "SKkT",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/ModifyOrderConfirmModal.tsx"
+        },
+        {
+          "id": "Ozc/",
+          "name": "./src/utils/logan.ts"
+        }
+      ]
+    },
+    "./TransactionHistory.m": {
+      "files": [
+        "static/chunks/bnc~43.084f4dc1.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "Ubub",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditQuickF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "+tiw",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.m.tsx"
+        },
+        {
+          "id": "c/hh",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.m.tsx"
+        },
+        {
+          "id": "guan",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/Mobile/OrderHistory.m.tsx"
+        },
+        {
+          "id": "JcaH",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.m.tsx"
+        },
+        {
+          "id": "qYua",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.m.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./TransactionHistory.pc": {
+      "files": [
+        "static/chunks/bnc~44.036e510a.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "x9UV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/usercenterOrders.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "4t1s",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/FilterF.js"
+        },
+        {
+          "id": "AOH6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ShareF.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "nBPl",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Picker/RangePicker.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "hhOR",
+          "name": "./src/shared/components/SharePoster/assets sync recursive ^\\.\\/.*\\.png$"
+        },
+        {
+          "id": "Uaot",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/Assets.tsx"
+        },
+        {
+          "id": "ggPg",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/OpenOrder.pc.tsx"
+        },
+        {
+          "id": "12QR",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/PC/OrderHistory.pc.tsx"
+        },
+        {
+          "id": "GrNR",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/TradeHistory.pc.tsx"
+        },
+        {
+          "id": "CQpL",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/TransactionHistory.pc.tsx"
+        },
+        {
+          "id": "N081",
+          "name": "./src/utils/domToImage.js"
+        }
+      ]
+    },
+    "./lib/encryption": {
+      "files": [
+        "static/chunks/4ed49ced.274363c3.js",
+        "static/chunks/encryption.f9d16be9.js"
+      ],
+      "children": [
+        {
+          "id": "HOJ8",
+          "name": "../../node_modules/logan-web/build/lib/js-encrypt.js"
+        },
+        {
+          "id": "3GK7",
+          "name": "../../node_modules/logan-web/build/lib/encryption.js"
+        }
+      ]
+    },
+    "./report-log": {
+      "files": [
+        "static/chunks/report_log.cbac8293.js"
+      ],
+      "children": [
+        {
+          "id": "lakv",
+          "name": "../../node_modules/logan-web/build/report-log.js"
+        }
+      ]
+    },
+    "./save-log": {
+      "files": [
+        "static/chunks/save_log.bf95a6b9.js"
+      ],
+      "children": [
+        {
+          "id": "sz/F",
+          "name": "../../node_modules/logan-web/build/save-log.js"
+        }
+      ]
+    },
+    "/tmp/tmp.eXKc4JveeE/web/apps/futures-trade-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.e12b4bc5.js"
+      ],
+      "children": [
+        {
+          "id": "h1ce",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.eXKc4JveeE/web/apps/futures-trade-ui/src/pages/electron/delivery?shuvi-route": {
+      "files": [
+        "static/chunks/vendor1.3abbdfe1.js",
+        "static/css/693429f4.chunk.css",
+        "static/chunks/page-061b.d441acb0.js"
+      ],
+      "children": [
+        {
+          "id": "pJsb",
+          "name": "../../node_modules/konva/lib/Core.js"
+        },
+        {
+          "id": "VTrZ",
+          "name": "../../node_modules/konva/lib/index.js"
+        },
+        {
+          "id": "8M3I",
+          "name": "../../node_modules/react-konva/node_modules/react-reconciler/index.js"
+        },
+        {
+          "id": "Dq7L",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/adjustMargin.js"
+        },
+        {
+          "id": "Hv1I",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/twap.js"
+        },
+        {
+          "id": "kf0l",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ClearNegativeBalanceAlert/index.js"
+        },
+        {
+          "id": "5tIi",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/LeveragePanel/index.js"
+        },
+        {
+          "id": "9Qap",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/MarginTypePanel.js"
+        },
+        {
+          "id": "zT+5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/Quiz/TutorialModal.js"
+        },
+        {
+          "id": "6exu",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ScrollStepGuide/index.js"
+        },
+        {
+          "id": "qFNo",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/TradeForbiddenModal/index.js"
+        },
+        {
+          "id": "MAV6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/TradeStatusFooter/components/index.js"
+        },
+        {
+          "id": "NAP3",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/utils/ee.js"
+        },
+        {
+          "id": "7DKi",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/common/useSharedLocalStorage.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "C4wm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/widgets/useTradeStream.js"
+        },
+        {
+          "id": "Ykg6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/simple-widget/dist/esm/components/Compliance/index.js"
+        },
+        {
+          "id": "afeE",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Card.js"
+        },
+        {
+          "id": "zXNn",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Layout.js"
+        },
+        {
+          "id": "Kiww",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Switch.js"
+        },
+        {
+          "id": "8CM1",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChartLineF.js"
+        },
+        {
+          "id": "P8Ci",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronDoubleRightF.js"
+        },
+        {
+          "id": "ockm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronLeftF.js"
+        },
+        {
+          "id": "ESdd",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/CircledQuestionF.js"
+        },
+        {
+          "id": "2fVk",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/MoveF.js"
+        },
+        {
+          "id": "WbDF",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/MoveTopF.js"
+        },
+        {
+          "id": "SYRY",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/CloseF.js"
+        },
+        {
+          "id": "NUIZ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/EcoInfoS24.js"
+        },
+        {
+          "id": "EgA9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SorttingArrowDownS241.js"
+        },
+        {
+          "id": "vEQk",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/TransferS24.js"
+        },
+        {
+          "id": "iVn9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/TrophyS24.js"
+        },
+        {
+          "id": "xlSM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/VideoPlayS24.js"
+        },
+        {
+          "id": "ZFRO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/AlertLoop/index.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "n/Wb",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/SearchDropdown/SearchDropdown.js"
+        },
+        {
+          "id": "LKg9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/utils/dist/esm/futures/eventBus.js"
+        },
+        {
+          "id": "X2Pf",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/utils/dist/esm/lang.js"
+        },
+        {
+          "id": "h0ui",
+          "name": "./src/hooks/useFormatPrice.ts"
+        },
+        {
+          "id": "TXQo",
+          "name": "./src/pages/electron/delivery/index.js?shuvi-route"
+        },
+        {
+          "id": "wXRv",
+          "name": "./src/pages/electron/shared/hooks/useContainElement.ts"
+        },
+        {
+          "id": "TNnZ",
+          "name": "./src/services/delivery/priceDifferSwitch.js"
+        },
+        {
+          "id": "7OE6",
+          "name": "./src/utils/clientWidth.ts"
+        },
+        {
+          "id": "sIpC",
+          "name": "./src/utils/hrefPlatform.ts"
+        },
+        {
+          "id": "qEuu",
+          "name": "./src/utils/themis.js"
+        },
+        {
+          "id": "BzR9",
+          "name": "./src/assets/alb.css?cssmodules"
+        }
+      ]
+    },
+    "/tmp/tmp.eXKc4JveeE/web/apps/futures-trade-ui/src/pages/electron/futures?shuvi-route": {
+      "files": [
+        "static/chunks/vendor1.3abbdfe1.js",
+        "static/css/507236f4.chunk.css",
+        "static/chunks/page-7479.e75e0c57.js"
+      ],
+      "children": [
+        {
+          "id": "pJsb",
+          "name": "../../node_modules/konva/lib/Core.js"
+        },
+        {
+          "id": "VTrZ",
+          "name": "../../node_modules/konva/lib/index.js"
+        },
+        {
+          "id": "8M3I",
+          "name": "../../node_modules/react-konva/node_modules/react-reconciler/index.js"
+        },
+        {
+          "id": "Dq7L",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/adjustMargin.js"
+        },
+        {
+          "id": "Hv1I",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/twap.js"
+        },
+        {
+          "id": "kf0l",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ClearNegativeBalanceAlert/index.js"
+        },
+        {
+          "id": "5tIi",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/LeveragePanel/index.js"
+        },
+        {
+          "id": "9Qap",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/MarginTypePanel.js"
+        },
+        {
+          "id": "zT+5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/Quiz/TutorialModal.js"
+        },
+        {
+          "id": "6exu",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ScrollStepGuide/index.js"
+        },
+        {
+          "id": "qFNo",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/TradeForbiddenModal/index.js"
+        },
+        {
+          "id": "MAV6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/TradeStatusFooter/components/index.js"
+        },
+        {
+          "id": "NAP3",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/utils/ee.js"
+        },
+        {
+          "id": "7DKi",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/common/useSharedLocalStorage.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "C4wm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/widgets/useTradeStream.js"
+        },
+        {
+          "id": "Ykg6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/simple-widget/dist/esm/components/Compliance/index.js"
+        },
+        {
+          "id": "afeE",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Card.js"
+        },
+        {
+          "id": "zXNn",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Layout.js"
+        },
+        {
+          "id": "Kiww",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Switch.js"
+        },
+        {
+          "id": "8CM1",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChartLineF.js"
+        },
+        {
+          "id": "P8Ci",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronDoubleRightF.js"
+        },
+        {
+          "id": "ockm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronLeftF.js"
+        },
+        {
+          "id": "ESdd",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/CircledQuestionF.js"
+        },
+        {
+          "id": "2fVk",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/MoveF.js"
+        },
+        {
+          "id": "WbDF",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/MoveTopF.js"
+        },
+        {
+          "id": "SYRY",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/CloseF.js"
+        },
+        {
+          "id": "NUIZ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/EcoInfoS24.js"
+        },
+        {
+          "id": "EgA9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SorttingArrowDownS241.js"
+        },
+        {
+          "id": "vEQk",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/TransferS24.js"
+        },
+        {
+          "id": "iVn9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/TrophyS24.js"
+        },
+        {
+          "id": "xlSM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/VideoPlayS24.js"
+        },
+        {
+          "id": "ZFRO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/AlertLoop/index.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "n/Wb",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/SearchDropdown/SearchDropdown.js"
+        },
+        {
+          "id": "LKg9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/utils/dist/esm/futures/eventBus.js"
+        },
+        {
+          "id": "X2Pf",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/utils/dist/esm/lang.js"
+        },
+        {
+          "id": "h0ui",
+          "name": "./src/hooks/useFormatPrice.ts"
+        },
+        {
+          "id": "6vMq",
+          "name": "./src/pages/electron/futures/index.js?shuvi-route"
+        },
+        {
+          "id": "wXRv",
+          "name": "./src/pages/electron/shared/hooks/useContainElement.ts"
+        },
+        {
+          "id": "7OE6",
+          "name": "./src/utils/clientWidth.ts"
+        },
+        {
+          "id": "sIpC",
+          "name": "./src/utils/hrefPlatform.ts"
+        },
+        {
+          "id": "qEuu",
+          "name": "./src/utils/themis.js"
+        },
+        {
+          "id": "BzR9",
+          "name": "./src/assets/alb.css?cssmodules"
+        }
+      ]
+    },
+    "/tmp/tmp.eXKc4JveeE/web/apps/futures-trade-ui/src/pages/index?shuvi-route": {
+      "files": [
+        "static/chunks/page-0042.963d2f95.js"
+      ],
+      "children": [
+        {
+          "id": "486D",
+          "name": "./src/pages/index.tsx?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.eXKc4JveeE/web/apps/futures-trade-ui/src/pages/login?shuvi-route": {
+      "files": [
+        "static/chunks/page-17fa.200d1c6c.js"
+      ],
+      "children": [
+        {
+          "id": "YCUW",
+          "name": "./src/pages/login.tsx?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.eXKc4JveeE/web/apps/futures-trade-ui/src/pages/multipleChart?shuvi-route": {
+      "files": [
+        "static/chunks/vendor1.3abbdfe1.js",
+        "static/css/507236f4.chunk.css",
+        "static/chunks/page-96eb.5dc20e86.js"
+      ],
+      "children": [
+        {
+          "id": "pJsb",
+          "name": "../../node_modules/konva/lib/Core.js"
+        },
+        {
+          "id": "VTrZ",
+          "name": "../../node_modules/konva/lib/index.js"
+        },
+        {
+          "id": "8M3I",
+          "name": "../../node_modules/react-konva/node_modules/react-reconciler/index.js"
+        },
+        {
+          "id": "Dq7L",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/adjustMargin.js"
+        },
+        {
+          "id": "Hv1I",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/twap.js"
+        },
+        {
+          "id": "kf0l",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ClearNegativeBalanceAlert/index.js"
+        },
+        {
+          "id": "5tIi",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/LeveragePanel/index.js"
+        },
+        {
+          "id": "9Qap",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/MarginTypePanel.js"
+        },
+        {
+          "id": "qFNo",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/TradeForbiddenModal/index.js"
+        },
+        {
+          "id": "MAV6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/TradeStatusFooter/components/index.js"
+        },
+        {
+          "id": "NAP3",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/utils/ee.js"
+        },
+        {
+          "id": "7DKi",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/common/useSharedLocalStorage.js"
+        },
+        {
+          "id": "C4wm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/widgets/useTradeStream.js"
+        },
+        {
+          "id": "afeE",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Card.js"
+        },
+        {
+          "id": "Kiww",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/Switch.js"
+        },
+        {
+          "id": "P8Ci",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronDoubleRightF.js"
+        },
+        {
+          "id": "ockm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronLeftF.js"
+        },
+        {
+          "id": "ESdd",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/CircledQuestionF.js"
+        },
+        {
+          "id": "2fVk",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/MoveF.js"
+        },
+        {
+          "id": "WbDF",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/MoveTopF.js"
+        },
+        {
+          "id": "SYRY",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/CloseF.js"
+        },
+        {
+          "id": "NUIZ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/EcoInfoS24.js"
+        },
+        {
+          "id": "EgA9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SorttingArrowDownS241.js"
+        },
+        {
+          "id": "vEQk",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/TransferS24.js"
+        },
+        {
+          "id": "iVn9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/TrophyS24.js"
+        },
+        {
+          "id": "ZFRO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/AlertLoop/index.js"
+        },
+        {
+          "id": "n/Wb",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/SearchDropdown/SearchDropdown.js"
+        },
+        {
+          "id": "LKg9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/utils/dist/esm/futures/eventBus.js"
+        },
+        {
+          "id": "X2Pf",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/utils/dist/esm/lang.js"
+        },
+        {
+          "id": "h0ui",
+          "name": "./src/hooks/useFormatPrice.ts"
+        },
+        {
+          "id": "wXRv",
+          "name": "./src/pages/electron/shared/hooks/useContainElement.ts"
+        },
+        {
+          "id": "5kiH",
+          "name": "./src/pages/multipleChart.js?shuvi-route"
+        },
+        {
+          "id": "sIpC",
+          "name": "./src/utils/hrefPlatform.ts"
+        },
+        {
+          "id": "qEuu",
+          "name": "./src/utils/themis.js"
+        },
+        {
+          "id": "BzR9",
+          "name": "./src/assets/alb.css?cssmodules"
+        }
+      ]
+    },
+    "@/futures/components/Market": {
+      "files": [
+        "static/chunks/bnc~pl~6.e475bdba.js"
+      ],
+      "children": [
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "13PS",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/Search.js"
+        },
+        {
+          "id": "1pwg",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/Sort/SortGroup.js"
+        },
+        {
+          "id": "0uqL",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/Tabs/AdaptiveTabs.js"
+        },
+        {
+          "id": "TBcR",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/TypeSwitch.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "JtUR",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/HotF.js"
+        },
+        {
+          "id": "ssCM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/LeaderboardF.js"
+        },
+        {
+          "id": "VgVM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/LinkF.js"
+        },
+        {
+          "id": "nJf+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/StarFilledF.js"
+        },
+        {
+          "id": "Dj7H",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TagF.js"
+        },
+        {
+          "id": "S0Ie",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TransferF.js"
+        },
+        {
+          "id": "TZ0n",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/New.js"
+        },
+        {
+          "id": "RAIT",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/NotFoundDataDark.js"
+        },
+        {
+          "id": "DS8H",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/NotFoundDataLight.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "/mDK",
+          "name": "./src/utils/marketUtils.ts"
+        }
+      ]
+    },
+    "@/shared/components/Announcement": {
+      "files": [
+        "static/chunks/2ca3b913.d812e07a.js",
+        "static/css/297ead49.chunk.css",
+        "static/chunks/bnc~pl~2.a566d8d5.js"
+      ],
+      "children": [
+        {
+          "id": "eNeL",
+          "name": "../../node_modules/swiper/js/swiper.esm.bundle.js"
+        },
+        {
+          "id": "2cpV",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/AnnouncementTool/index.js"
+        },
+        {
+          "id": "ssCM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/LeaderboardF.js"
+        },
+        {
+          "id": "9JO9",
+          "name": "../../node_modules/swiper/node_modules/dom7/dist/dom7.modular.js"
+        }
+      ]
+    },
+    "@/shared/components/HelpCenter": {
+      "files": [
+        "static/chunks/bnc~pl~20.86f46285.js"
+      ],
+      "children": [
+        {
+          "id": "MJCM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/helpCenter.js"
+        },
+        {
+          "id": "zT+5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/Quiz/TutorialModal.js"
+        },
+        {
+          "id": "6exu",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ScrollStepGuide/index.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "jBCd",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/AlertF.js"
+        },
+        {
+          "id": "xA9w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ChevronUpF.js"
+        },
+        {
+          "id": "maGK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/HelpF.js"
+        },
+        {
+          "id": "JtUR",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/HotF.js"
+        },
+        {
+          "id": "f2C1",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/LimitF.js"
+        },
+        {
+          "id": "WkMA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TooltipF.js"
+        },
+        {
+          "id": "mAxD",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TutorialF.js"
+        },
+        {
+          "id": "aDP/",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/VideoF.js"
+        },
+        {
+          "id": "xlSM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/VideoPlayS24.js"
+        }
+      ]
+    },
+    "@/shared/components/OrderForm": {
+      "files": [
+        "static/chunks/bnc~pl~29.b8c05a44.js",
+        "static/chunks/bnc~pl~11.1b190af4.js"
+      ],
+      "children": [
+        {
+          "id": "14FK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/ConvertModal/index.js"
+        },
+        {
+          "id": "7oEw",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/NegativeBalance/Modal.js"
+        },
+        {
+          "id": "uB/w",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/PlusMinusDropdown/index.js"
+        },
+        {
+          "id": "My+q",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ArrowDownF.js"
+        },
+        {
+          "id": "adpF",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/Calculator.js"
+        },
+        {
+          "id": "5jGq",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/DeleteF.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "S0Ie",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TransferF.js"
+        },
+        {
+          "id": "oZC5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/DownLineS16.js"
+        },
+        {
+          "id": "aDrU",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/FireS24.js"
+        },
+        {
+          "id": "u8Th",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/InfoS241.js"
+        },
+        {
+          "id": "1mYo",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/NavExpandS16.js"
+        },
+        {
+          "id": "Mt4o",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/AssetTransfer/AssetTransferProvider.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "ruN6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Search/Search.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        },
+        {
+          "id": "d2db",
+          "name": "./src/hooks/useInBattleDialog.tsx"
+        },
+        {
+          "id": "vSWf",
+          "name": "./src/hooks/useUnitPrecision.ts"
+        },
+        {
+          "id": "/mDK",
+          "name": "./src/utils/marketUtils.ts"
+        },
+        {
+          "id": "zT+5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/Quiz/TutorialModal.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        }
+      ]
+    },
+    "@/shared/components/OrderForm/modal/PreferencePanel": {
+      "files": [
+        "static/chunks/bnc~16.f701699d.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "OLE6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/OpenFuturesAccount/index.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "BxVK",
+          "name": "./src/delivery/components/HintDialog/battling.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        }
+      ]
+    },
+    "@/shared/components/SensorProvider": {
+      "files": [
+        "static/chunks/bnc~pl~1.e6fe3265.js"
+      ],
+      "children": [
+        {
+          "id": "YPGZ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/track/dist/esm/initTrackFunc.js"
+        }
+      ]
+    },
+    "@/shared/components/TradeFooter/ChatRoom": {
+      "files": [
+        "static/chunks/bnc~16.f701699d.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "OLE6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/OpenFuturesAccount/index.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "BxVK",
+          "name": "./src/delivery/components/HintDialog/battling.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        }
+      ]
+    },
+    "@/shared/components/UserTab/Lazy/APIKeyPanel": {
+      "files": [
+        "static/chunks/9753.10a04bd5.js"
+      ],
+      "children": [
+        {
+          "id": "M6wx",
+          "name": "./src/shared/components/UserTab/Lazy/APIKeyPanel/index.tsx"
+        }
+      ]
+    },
+    "@/shared/components/UserTab/Lazy/Assets": {
+      "files": [
+        "static/chunks/9847.639e59ac.js"
+      ],
+      "children": [
+        {
+          "id": "r8hx",
+          "name": "./src/shared/components/UserTab/Lazy/Assets/index.tsx"
+        }
+      ]
+    },
+    "@/shared/components/UserTab/Lazy/OpenOrder": {
+      "files": [
+        "static/chunks/8306.ab3e0820.js",
+        "static/chunks/8416.f3b59a32.js"
+      ],
+      "children": [
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "SKkT",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/ModifyOrderConfirmModal.tsx"
+        },
+        {
+          "id": "7cvD",
+          "name": "./src/shared/components/UserTab/Lazy/OpenOrder/index.tsx"
+        }
+      ]
+    },
+    "@/shared/components/UserTab/Lazy/OrderHistory": {
+      "files": [
+        "static/chunks/3870.2c0fab52.js"
+      ],
+      "children": [
+        {
+          "id": "pVqC",
+          "name": "./src/shared/components/UserTab/Lazy/OrderHistory/index.tsx"
+        }
+      ]
+    },
+    "@/shared/components/UserTab/Lazy/TradeHistory": {
+      "files": [
+        "static/chunks/3806.a4bc2bf5.js"
+      ],
+      "children": [
+        {
+          "id": "HX21",
+          "name": "./src/shared/components/UserTab/Lazy/TradeHistory/index.tsx"
+        }
+      ]
+    },
+    "@/shared/components/UserTab/Lazy/TransactionHistory": {
+      "files": [
+        "static/chunks/5311.14355812.js"
+      ],
+      "children": [
+        {
+          "id": "6Zi0",
+          "name": "./src/shared/components/UserTab/Lazy/TransactionHistory/index.tsx"
+        }
+      ]
+    },
+    "@binance/hello-script": {
+      "files": [
+        "static/chunks/3639.a4043380.js"
+      ],
+      "children": [
+        {
+          "id": "JSsR",
+          "name": "../../node_modules/@binance/hello-script/dist/esm/index.js"
+        }
+      ]
+    },
+    "~/components/AssetsCard": {
+      "files": [
+        "static/chunks/bnc~pl~13.142330de.js"
+      ],
+      "children": [
+        {
+          "id": "S0Ie",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TransferF.js"
+        },
+        {
+          "id": "ruN6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Search/Search.js"
+        }
+      ]
+    },
+    "~/components/BattleDialog/battling": {
+      "files": [
+        "static/chunks/bnc~16.f701699d.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "OLE6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/OpenFuturesAccount/index.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "BxVK",
+          "name": "./src/delivery/components/HintDialog/battling.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        }
+      ]
+    },
+    "~/components/FavoriteBar": {
+      "files": [
+        "static/chunks/bnc~pl~7.41ea3441.js"
+      ],
+      "children": [
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "nJf+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/StarFilledF.js"
+        },
+        {
+          "id": "/mDK",
+          "name": "./src/utils/marketUtils.ts"
+        }
+      ]
+    },
+    "~/components/FlashOrder": {
+      "files": [
+        "static/chunks/bnc~pl~14.ba90eb01.js",
+        "static/chunks/bnc~pl~32.7d863fe0.js"
+      ],
+      "children": [
+        {
+          "id": "zT+5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/Quiz/TutorialModal.js"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        },
+        {
+          "id": "d2db",
+          "name": "./src/hooks/useInBattleDialog.tsx"
+        },
+        {
+          "id": "HQDa",
+          "name": "./src/theme/zIndices.ts"
+        }
+      ]
+    },
+    "~/components/FlashOrder/FlashOrderContent": {
+      "files": [
+        "static/chunks/bnc~pl~54.49847bdd.js"
+      ],
+      "children": [
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        },
+        {
+          "id": "d2db",
+          "name": "./src/hooks/useInBattleDialog.tsx"
+        },
+        {
+          "id": "HQDa",
+          "name": "./src/theme/zIndices.ts"
+        }
+      ]
+    },
+    "~/components/Market": {
+      "files": [
+        "static/chunks/bnc~pl~18.1df9a5f7.js",
+        "static/chunks/bnc~pl~6.e475bdba.js"
+      ],
+      "children": [
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "13PS",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/Search.js"
+        },
+        {
+          "id": "1pwg",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/Sort/SortGroup.js"
+        },
+        {
+          "id": "0uqL",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/Tabs/AdaptiveTabs.js"
+        },
+        {
+          "id": "TBcR",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Market/component/TypeSwitch.js"
+        },
+        {
+          "id": "64LX",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/EditF.js"
+        },
+        {
+          "id": "JtUR",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/HotF.js"
+        },
+        {
+          "id": "ssCM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/LeaderboardF.js"
+        },
+        {
+          "id": "VgVM",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/LinkF.js"
+        },
+        {
+          "id": "nJf+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/StarFilledF.js"
+        },
+        {
+          "id": "Dj7H",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TagF.js"
+        },
+        {
+          "id": "S0Ie",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/TransferF.js"
+        },
+        {
+          "id": "TZ0n",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/New.js"
+        },
+        {
+          "id": "RAIT",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/NotFoundDataDark.js"
+        },
+        {
+          "id": "DS8H",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/NotFoundDataLight.js"
+        },
+        {
+          "id": "IDe+",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingColorS24.js"
+        },
+        {
+          "id": "RKxx",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingDownColorS24.js"
+        },
+        {
+          "id": "n/wh",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons/dist/esm/SortingUpColorS24.js"
+        },
+        {
+          "id": "/mDK",
+          "name": "./src/utils/marketUtils.ts"
+        },
+        {
+          "id": "dqGA",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/futures/useLng.js"
+        }
+      ]
+    },
+    "~/components/OrderBook": {
+      "files": [
+        "static/chunks/bnc~pl~9.6ecd4cf0.js"
+      ],
+      "children": [
+        {
+          "id": "nd4m",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/Orderbook/index.js"
+        },
+        {
+          "id": "My+q",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ArrowDownF.js"
+        },
+        {
+          "id": "T9G5",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Tooltip/TooltipV2.js"
+        }
+      ]
+    },
+    "~/components/PreferenceDropdown": {
+      "files": [
+        "static/chunks/bnc~pl~19.b87d9e44.js"
+      ],
+      "children": [
+        {
+          "id": "38Cn",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ModeDarkF.js"
+        },
+        {
+          "id": "uX2D",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/ModeLightF.js"
+        },
+        {
+          "id": "KsyR",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-icons-2/dist/esm/SettingsCogF.js"
+        }
+      ]
+    },
+    "~/components/ServiceAbnormalBlock": {
+      "files": [
+        "static/chunks/bnc~16.f701699d.js"
+      ],
+      "children": [
+        {
+          "id": "/P9W",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/api/dist/esm/futures/position.js"
+        },
+        {
+          "id": "OLE6",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/futures-widget/dist/esm/components/OpenFuturesAccount/index.js"
+        },
+        {
+          "id": "f5AK",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Dialog/common.js"
+        },
+        {
+          "id": "I+sO",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/Notification/NotificationProvider.js"
+        },
+        {
+          "id": "BxVK",
+          "name": "./src/delivery/components/HintDialog/battling.js"
+        },
+        {
+          "id": "revF",
+          "name": "./src/delivery/hooks/useBattle.js"
+        }
+      ]
+    },
+    "~/components/Trades": {
+      "files": [
+        "static/chunks/bnc~pl~10.ca158d4e.js"
+      ],
+      "children": [
+        {
+          "id": "gIGE",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/hooks/dist/esm/hooks/widgets/useTrades.js"
+        },
+        {
+          "id": "UFWJ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/List/index.js"
+        },
+        {
+          "id": "GF72",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/01713ad6c9a1d3f1a3ca556f7230516d/execroot/mono/bazel-out/k8-fastbuild/bin/libs/trade-widget/dist/esm/components/TradeList/index.js"
+        }
+      ]
+    }
+  }
+}

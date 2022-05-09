@@ -1,0 +1,737 @@
+[2022-05-04 08:46:27.537] [info]  anchor: initializing
+[2022-05-04 08:46:27.607] [info]  anchor: ready
+[2022-05-04 08:46:27.608] [info]  enableSigningRequests
+[2022-05-04 08:46:27.683] [info]  signing requests
+[2022-05-04 08:46:27.683] [info]  tray menu: creating
+[2022-05-04 08:46:27.689] [info]  creating tray menu
+[2022-05-04 08:46:27.689] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-04 08:46:27.714] [info]  wallet ui: creating
+[2022-05-04 08:46:27.727] [info]  protocol handler: creating ui
+[2022-05-04 08:46:27.728] [info]  initial request false
+[2022-05-04 08:46:28.391] [info]  protocol handler: loaded ui
+[2022-05-04 08:46:28.889] [info]  manager: successfully loaded
+[2022-05-04 09:18:56.076] [info]  anchor: initializing
+[2022-05-04 09:18:56.156] [info]  anchor: ready
+[2022-05-04 09:18:56.157] [info]  enableSigningRequests
+[2022-05-04 09:18:56.248] [info]  signing requests
+[2022-05-04 09:18:56.248] [info]  tray menu: creating
+[2022-05-04 09:18:56.257] [info]  creating tray menu
+[2022-05-04 09:18:56.257] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-04 09:18:56.306] [info]  wallet ui: creating
+[2022-05-04 09:18:56.338] [info]  protocol handler: creating ui
+[2022-05-04 09:18:56.339] [info]  initial request false
+[2022-05-04 09:19:15.427] [info]  wallet ui: creating
+[2022-05-04 09:19:16.634] [info]  manager: successfully loaded
+[2022-05-04 09:21:37.187] [info]  anchor: initializing
+[2022-05-04 09:21:37.299] [info]  anchor: ready
+[2022-05-04 09:21:37.300] [info]  enableSigningRequests
+[2022-05-04 09:21:37.420] [info]  signing requests
+[2022-05-04 09:21:37.421] [info]  tray menu: creating
+[2022-05-04 09:21:37.429] [info]  creating tray menu
+[2022-05-04 09:21:37.430] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-04 09:21:37.472] [info]  wallet ui: creating
+[2022-05-04 09:21:37.494] [info]  protocol handler: creating ui
+[2022-05-04 09:21:37.495] [info]  initial request false
+[2022-05-04 16:13:20.101] [info]  anchor: initializing
+[2022-05-04 16:13:20.197] [info]  anchor: ready
+[2022-05-04 16:13:20.197] [info]  enableSigningRequests
+[2022-05-04 16:13:20.328] [info]  signing requests
+[2022-05-04 16:13:20.328] [info]  tray menu: creating
+[2022-05-04 16:13:20.336] [info]  creating tray menu
+[2022-05-04 16:13:20.337] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-04 16:13:20.383] [info]  wallet ui: creating
+[2022-05-04 16:13:20.412] [info]  protocol handler: creating ui
+[2022-05-04 16:13:20.414] [info]  initial request false
+[2022-05-04 17:12:56.887] [info]  wallet ui: creating
+[2022-05-04 17:12:58.189] [info]  manager: successfully loaded
+[2022-05-04 17:13:27.446] [info]  anchor: initializing
+[2022-05-04 17:13:27.560] [info]  anchor: ready
+[2022-05-04 17:13:27.561] [info]  enableSigningRequests
+[2022-05-04 17:13:27.722] [info]  signing requests
+[2022-05-04 17:13:27.723] [info]  tray menu: creating
+[2022-05-04 17:13:27.729] [info]  creating tray menu
+[2022-05-04 17:13:27.729] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-04 17:13:27.762] [info]  wallet ui: creating
+[2022-05-04 17:13:27.779] [info]  protocol handler: creating ui
+[2022-05-04 17:13:27.780] [info]  initial request false
+[2022-05-05 05:53:22.519] [info]  anchor: initializing
+[2022-05-05 05:53:22.673] [info]  anchor: ready
+[2022-05-05 05:53:22.675] [info]  enableSigningRequests
+[2022-05-05 05:53:22.785] [info]  signing requests
+[2022-05-05 05:53:22.785] [info]  tray menu: creating
+[2022-05-05 05:53:22.807] [info]  creating tray menu
+[2022-05-05 05:53:22.807] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-05 05:53:22.836] [info]  wallet ui: creating
+[2022-05-05 05:53:22.864] [info]  protocol handler: creating ui
+[2022-05-05 05:53:22.864] [info]  initial request false
+[2022-05-05 05:53:23.635] [info]  protocol handler: loaded ui
+[2022-05-05 05:53:24.300] [info]  manager: successfully loaded
+[2022-05-05 06:10:30.108] [info]  anchor: initializing
+[2022-05-05 06:10:30.283] [info]  anchor: ready
+[2022-05-05 06:10:30.283] [info]  enableSigningRequests
+[2022-05-05 06:10:30.425] [info]  signing requests
+[2022-05-05 06:10:30.426] [info]  tray menu: creating
+[2022-05-05 06:10:30.432] [info]  creating tray menu
+[2022-05-05 06:10:30.432] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-05 06:10:30.482] [info]  wallet ui: creating
+[2022-05-05 06:10:30.502] [info]  protocol handler: creating ui
+[2022-05-05 06:10:30.502] [info]  initial request false
+[2022-05-05 13:48:25.485] [info]  anchor: initializing
+[2022-05-05 13:48:25.593] [info]  anchor: ready
+[2022-05-05 13:48:25.594] [info]  enableSigningRequests
+[2022-05-05 13:48:25.727] [info]  signing requests
+[2022-05-05 13:48:25.727] [info]  tray menu: creating
+[2022-05-05 13:48:25.735] [info]  creating tray menu
+[2022-05-05 13:48:25.735] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-05 13:48:25.767] [info]  wallet ui: creating
+[2022-05-05 13:48:25.788] [info]  protocol handler: creating ui
+[2022-05-05 13:48:25.788] [info]  initial request false
+[2022-05-05 21:42:04.924] [info]  anchor: initializing
+[2022-05-05 21:42:05.120] [info]  anchor: ready
+[2022-05-05 21:42:05.121] [info]  enableSigningRequests
+[2022-05-05 21:42:05.228] [info]  signing requests
+[2022-05-05 21:42:05.228] [info]  tray menu: creating
+[2022-05-05 21:42:05.258] [info]  creating tray menu
+[2022-05-05 21:42:05.259] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-05 21:42:05.304] [info]  wallet ui: creating
+[2022-05-05 21:42:05.332] [info]  protocol handler: creating ui
+[2022-05-05 21:42:05.333] [info]  initial request false
+[2022-05-05 21:42:06.040] [info]  protocol handler: loaded ui
+[2022-05-05 21:42:06.682] [info]  manager: successfully loaded
+[2022-05-05 22:07:56.057] [info]  anchor: initializing
+[2022-05-05 22:07:56.182] [info]  anchor: ready
+[2022-05-05 22:07:56.182] [info]  enableSigningRequests
+[2022-05-05 22:07:56.295] [info]  signing requests
+[2022-05-05 22:07:56.295] [info]  tray menu: creating
+[2022-05-05 22:07:56.302] [info]  creating tray menu
+[2022-05-05 22:07:56.303] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-05 22:07:56.339] [info]  wallet ui: creating
+[2022-05-05 22:07:56.357] [info]  protocol handler: creating ui
+[2022-05-05 22:07:56.358] [info]  initial request false
+[2022-05-05 22:08:19.160] [info]  anchor: initializing
+[2022-05-05 22:08:19.243] [info]  anchor: ready
+[2022-05-05 22:08:19.244] [info]  enableSigningRequests
+[2022-05-05 22:08:19.377] [info]  signing requests
+[2022-05-05 22:08:19.378] [info]  tray menu: creating
+[2022-05-05 22:08:19.385] [info]  creating tray menu
+[2022-05-05 22:08:19.385] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-05 22:08:19.414] [info]  wallet ui: creating
+[2022-05-05 22:08:19.432] [info]  protocol handler: creating ui
+[2022-05-05 22:08:19.433] [info]  initial request false
+[2022-05-05 22:28:52.348] [info]  wallet ui: creating
+[2022-05-05 22:28:53.432] [info]  manager: successfully loaded
+[2022-05-05 22:28:56.226] [info]  anchor: before-quit
+[2022-05-05 22:28:56.333] [info]  anchor: will-quit
+[2022-05-05 22:28:56.333] [info]  anchor: quit
+[2022-05-06 12:59:50.025] [info]  anchor: initializing
+[2022-05-06 12:59:50.207] [info]  anchor: ready
+[2022-05-06 12:59:50.208] [info]  enableSigningRequests
+[2022-05-06 12:59:50.315] [info]  signing requests
+[2022-05-06 12:59:50.315] [info]  tray menu: creating
+[2022-05-06 12:59:50.347] [info]  creating tray menu
+[2022-05-06 12:59:50.348] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-06 12:59:50.388] [info]  wallet ui: creating
+[2022-05-06 12:59:50.422] [info]  protocol handler: creating ui
+[2022-05-06 12:59:50.422] [info]  initial request false
+[2022-05-06 12:59:51.149] [info]  protocol handler: loaded ui
+[2022-05-06 12:59:51.963] [info]  manager: successfully loaded
+[2022-05-06 13:00:26.859] [info]  anchor: initializing
+[2022-05-06 13:00:26.973] [info]  anchor: ready
+[2022-05-06 13:00:26.974] [info]  enableSigningRequests
+[2022-05-06 13:00:27.089] [info]  signing requests
+[2022-05-06 13:00:27.090] [info]  tray menu: creating
+[2022-05-06 13:00:27.097] [info]  creating tray menu
+[2022-05-06 13:00:27.097] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-06 13:00:27.137] [info]  wallet ui: creating
+[2022-05-06 13:00:27.156] [info]  protocol handler: creating ui
+[2022-05-06 13:00:27.157] [info]  initial request false
+[2022-05-06 13:46:28.857] [info]  anchor: initializing
+[2022-05-06 13:46:28.978] [info]  anchor: ready
+[2022-05-06 13:46:28.979] [info]  enableSigningRequests
+[2022-05-06 13:46:29.115] [info]  signing requests
+[2022-05-06 13:46:29.115] [info]  tray menu: creating
+[2022-05-06 13:46:29.121] [info]  creating tray menu
+[2022-05-06 13:46:29.121] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-06 13:46:29.150] [info]  wallet ui: creating
+[2022-05-06 13:46:29.167] [info]  protocol handler: creating ui
+[2022-05-06 13:46:29.167] [info]  initial request false
+[2022-05-06 21:43:55.881] [info]  anchor: initializing
+[2022-05-06 21:43:56.045] [info]  anchor: ready
+[2022-05-06 21:43:56.046] [info]  enableSigningRequests
+[2022-05-06 21:43:56.143] [info]  signing requests
+[2022-05-06 21:43:56.143] [info]  tray menu: creating
+[2022-05-06 21:43:56.165] [info]  creating tray menu
+[2022-05-06 21:43:56.165] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-06 21:43:56.193] [info]  wallet ui: creating
+[2022-05-06 21:43:56.221] [info]  protocol handler: creating ui
+[2022-05-06 21:43:56.221] [info]  initial request false
+[2022-05-06 21:43:57.082] [info]  protocol handler: loaded ui
+[2022-05-06 21:43:57.745] [info]  manager: successfully loaded
+[2022-05-06 21:44:23.693] [info]  anchor: initializing
+[2022-05-06 21:44:23.811] [info]  anchor: ready
+[2022-05-06 21:44:23.811] [info]  enableSigningRequests
+[2022-05-06 21:44:23.920] [info]  signing requests
+[2022-05-06 21:44:23.921] [info]  tray menu: creating
+[2022-05-06 21:44:23.927] [info]  creating tray menu
+[2022-05-06 21:44:23.928] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-06 21:44:23.963] [info]  wallet ui: creating
+[2022-05-06 21:44:23.985] [info]  protocol handler: creating ui
+[2022-05-06 21:44:23.985] [info]  initial request false
+[2022-05-07 08:32:17.561] [info]  anchor: initializing
+[2022-05-07 08:32:17.740] [info]  anchor: ready
+[2022-05-07 08:32:17.742] [info]  enableSigningRequests
+[2022-05-07 08:32:17.852] [info]  signing requests
+[2022-05-07 08:32:17.853] [info]  tray menu: creating
+[2022-05-07 08:32:17.878] [info]  creating tray menu
+[2022-05-07 08:32:17.879] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-07 08:32:17.912] [info]  wallet ui: creating
+[2022-05-07 08:32:17.944] [info]  protocol handler: creating ui
+[2022-05-07 08:32:17.945] [info]  initial request false
+[2022-05-07 08:32:18.882] [info]  protocol handler: loaded ui
+[2022-05-07 08:32:19.627] [info]  manager: successfully loaded
+[2022-05-07 09:46:29.220] [info]  anchor: initializing
+[2022-05-07 09:46:29.341] [info]  anchor: ready
+[2022-05-07 09:46:29.341] [info]  enableSigningRequests
+[2022-05-07 09:46:29.446] [info]  signing requests
+[2022-05-07 09:46:29.447] [info]  tray menu: creating
+[2022-05-07 09:46:29.453] [info]  creating tray menu
+[2022-05-07 09:46:29.454] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-07 09:46:29.488] [info]  wallet ui: creating
+[2022-05-07 09:46:29.511] [info]  protocol handler: creating ui
+[2022-05-07 09:46:29.511] [info]  initial request false
+[2022-05-08 12:13:14.043] [info]  anchor: initializing
+[2022-05-08 12:13:14.177] [info]  anchor: ready
+[2022-05-08 12:13:14.178] [info]  enableSigningRequests
+[2022-05-08 12:13:14.281] [info]  signing requests
+[2022-05-08 12:13:14.282] [info]  tray menu: creating
+[2022-05-08 12:13:14.308] [info]  creating tray menu
+[2022-05-08 12:13:14.308] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 12:13:14.353] [info]  wallet ui: creating
+[2022-05-08 12:13:14.418] [info]  protocol handler: creating ui
+[2022-05-08 12:13:14.418] [info]  initial request false
+[2022-05-08 12:13:15.228] [info]  protocol handler: loaded ui
+[2022-05-08 12:13:15.942] [info]  manager: successfully loaded
+[2022-05-08 13:41:40.116] [info]  anchor: initializing
+[2022-05-08 13:41:40.254] [info]  anchor: ready
+[2022-05-08 13:41:40.255] [info]  enableSigningRequests
+[2022-05-08 13:41:40.362] [info]  signing requests
+[2022-05-08 13:41:40.363] [info]  tray menu: creating
+[2022-05-08 13:41:40.389] [info]  creating tray menu
+[2022-05-08 13:41:40.389] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:41:40.418] [info]  wallet ui: creating
+[2022-05-08 13:41:40.449] [info]  protocol handler: creating ui
+[2022-05-08 13:41:40.449] [info]  initial request false
+[2022-05-08 13:41:41.164] [info]  protocol handler: loaded ui
+[2022-05-08 13:41:41.864] [info]  manager: successfully loaded
+[2022-05-08 13:42:00.389] [info]  anchor: initializing
+[2022-05-08 13:42:00.505] [info]  anchor: ready
+[2022-05-08 13:42:00.506] [info]  enableSigningRequests
+[2022-05-08 13:42:00.630] [info]  signing requests
+[2022-05-08 13:42:00.631] [info]  tray menu: creating
+[2022-05-08 13:42:00.638] [info]  creating tray menu
+[2022-05-08 13:42:00.638] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:42:00.671] [info]  wallet ui: creating
+[2022-05-08 13:42:00.693] [info]  protocol handler: creating ui
+[2022-05-08 13:42:00.693] [info]  initial request false
+[2022-05-08 13:42:27.773] [info]  anchor: initializing
+[2022-05-08 13:42:27.903] [info]  anchor: ready
+[2022-05-08 13:42:27.903] [info]  enableSigningRequests
+[2022-05-08 13:42:28.003] [info]  signing requests
+[2022-05-08 13:42:28.004] [info]  tray menu: creating
+[2022-05-08 13:42:28.009] [info]  creating tray menu
+[2022-05-08 13:42:28.010] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:42:28.040] [info]  wallet ui: creating
+[2022-05-08 13:42:28.061] [info]  protocol handler: creating ui
+[2022-05-08 13:42:28.061] [info]  initial request false
+[2022-05-08 13:42:37.642] [info]  anchor: initializing
+[2022-05-08 13:42:37.752] [info]  anchor: ready
+[2022-05-08 13:42:37.753] [info]  enableSigningRequests
+[2022-05-08 13:42:37.852] [info]  signing requests
+[2022-05-08 13:42:37.852] [info]  tray menu: creating
+[2022-05-08 13:42:37.859] [info]  creating tray menu
+[2022-05-08 13:42:37.859] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:42:37.888] [info]  wallet ui: creating
+[2022-05-08 13:42:37.905] [info]  protocol handler: creating ui
+[2022-05-08 13:42:37.905] [info]  initial request false
+[2022-05-08 13:42:47.928] [info]  anchor: initializing
+[2022-05-08 13:42:48.069] [info]  anchor: ready
+[2022-05-08 13:42:48.069] [info]  enableSigningRequests
+[2022-05-08 13:42:48.197] [info]  signing requests
+[2022-05-08 13:42:48.197] [info]  tray menu: creating
+[2022-05-08 13:42:48.205] [info]  creating tray menu
+[2022-05-08 13:42:48.206] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:42:48.237] [info]  wallet ui: creating
+[2022-05-08 13:42:48.261] [info]  protocol handler: creating ui
+[2022-05-08 13:42:48.261] [info]  initial request false
+[2022-05-08 13:42:55.582] [info]  anchor: initializing
+[2022-05-08 13:42:55.714] [info]  anchor: ready
+[2022-05-08 13:42:55.716] [info]  enableSigningRequests
+[2022-05-08 13:42:55.809] [info]  signing requests
+[2022-05-08 13:42:55.810] [info]  tray menu: creating
+[2022-05-08 13:42:55.815] [info]  creating tray menu
+[2022-05-08 13:42:55.815] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:42:55.843] [info]  wallet ui: creating
+[2022-05-08 13:42:55.858] [info]  protocol handler: creating ui
+[2022-05-08 13:42:55.859] [info]  initial request false
+[2022-05-08 13:43:02.967] [info]  anchor: initializing
+[2022-05-08 13:43:03.073] [info]  anchor: ready
+[2022-05-08 13:43:03.074] [info]  enableSigningRequests
+[2022-05-08 13:43:03.177] [info]  signing requests
+[2022-05-08 13:43:03.177] [info]  tray menu: creating
+[2022-05-08 13:43:03.183] [info]  creating tray menu
+[2022-05-08 13:43:03.183] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:43:03.211] [info]  wallet ui: creating
+[2022-05-08 13:43:03.227] [info]  protocol handler: creating ui
+[2022-05-08 13:43:03.227] [info]  initial request false
+[2022-05-08 13:43:12.186] [info]  anchor: initializing
+[2022-05-08 13:43:12.290] [info]  anchor: ready
+[2022-05-08 13:43:12.291] [info]  enableSigningRequests
+[2022-05-08 13:43:12.393] [info]  signing requests
+[2022-05-08 13:43:12.394] [info]  tray menu: creating
+[2022-05-08 13:43:12.399] [info]  creating tray menu
+[2022-05-08 13:43:12.399] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:43:12.427] [info]  wallet ui: creating
+[2022-05-08 13:43:12.441] [info]  protocol handler: creating ui
+[2022-05-08 13:43:12.442] [info]  initial request false
+[2022-05-08 13:43:20.482] [info]  anchor: initializing
+[2022-05-08 13:43:20.610] [info]  anchor: ready
+[2022-05-08 13:43:20.610] [info]  enableSigningRequests
+[2022-05-08 13:43:20.714] [info]  signing requests
+[2022-05-08 13:43:20.715] [info]  tray menu: creating
+[2022-05-08 13:43:20.721] [info]  creating tray menu
+[2022-05-08 13:43:20.721] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:43:20.748] [info]  wallet ui: creating
+[2022-05-08 13:43:20.765] [info]  protocol handler: creating ui
+[2022-05-08 13:43:20.765] [info]  initial request false
+[2022-05-08 13:43:28.254] [info]  anchor: initializing
+[2022-05-08 13:43:28.392] [info]  anchor: ready
+[2022-05-08 13:43:28.393] [info]  enableSigningRequests
+[2022-05-08 13:43:28.496] [info]  signing requests
+[2022-05-08 13:43:28.497] [info]  tray menu: creating
+[2022-05-08 13:43:28.503] [info]  creating tray menu
+[2022-05-08 13:43:28.504] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:43:28.540] [info]  wallet ui: creating
+[2022-05-08 13:43:28.557] [info]  protocol handler: creating ui
+[2022-05-08 13:43:28.558] [info]  initial request false
+[2022-05-08 13:43:36.583] [info]  anchor: initializing
+[2022-05-08 13:43:36.684] [info]  anchor: ready
+[2022-05-08 13:43:36.685] [info]  enableSigningRequests
+[2022-05-08 13:43:36.783] [info]  signing requests
+[2022-05-08 13:43:36.783] [info]  tray menu: creating
+[2022-05-08 13:43:36.790] [info]  creating tray menu
+[2022-05-08 13:43:36.790] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 13:43:36.817] [info]  wallet ui: creating
+[2022-05-08 13:43:36.833] [info]  protocol handler: creating ui
+[2022-05-08 13:43:36.833] [info]  initial request false
+[2022-05-08 17:43:16.331] [info]  anchor: initializing
+[2022-05-08 17:43:16.508] [info]  anchor: ready
+[2022-05-08 17:43:16.510] [info]  enableSigningRequests
+[2022-05-08 17:43:16.629] [info]  signing requests
+[2022-05-08 17:43:16.630] [info]  tray menu: creating
+[2022-05-08 17:43:16.651] [info]  creating tray menu
+[2022-05-08 17:43:16.651] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 17:43:16.682] [info]  wallet ui: creating
+[2022-05-08 17:43:16.711] [info]  protocol handler: creating ui
+[2022-05-08 17:43:16.711] [info]  initial request false
+[2022-05-08 17:43:17.587] [info]  protocol handler: loaded ui
+[2022-05-08 17:43:18.400] [info]  manager: successfully loaded
+[2022-05-08 17:43:55.253] [info]  anchor: initializing
+[2022-05-08 17:43:55.393] [info]  anchor: ready
+[2022-05-08 17:43:55.394] [info]  enableSigningRequests
+[2022-05-08 17:43:55.519] [info]  signing requests
+[2022-05-08 17:43:55.520] [info]  tray menu: creating
+[2022-05-08 17:43:55.528] [info]  creating tray menu
+[2022-05-08 17:43:55.528] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-08 17:43:55.565] [info]  wallet ui: creating
+[2022-05-08 17:43:55.584] [info]  protocol handler: creating ui
+[2022-05-08 17:43:55.585] [info]  initial request false
+[2022-05-08 17:50:11.087] [info]  [
+  'SessionManager on:message exception',
+  'Error: Unknown session using PUB_K1_8bg7mMdi9M9Wa7KhhkTNrzDLb8nnpwCqrCw4r6ktwLoyBXKcKH\n' +
+    '    at Ss.handleRequest (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:258774)\n' +
+    '    at Ne.<anonymous> (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:257775)\n' +
+    '    at Ne.s.emit (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:6712133)\n' +
+    '    at Ne.handleMessage (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:137813)\n' +
+    '    at k.n.onmessage (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:136491)\n' +
+    '    at k.s (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:7703038)\n' +
+    '    at k.emit (events.js:315:20)\n' +
+    '    at t.exports.U (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:7736362)\n' +
+    '    at t.exports.emit (events.js:315:20)\n' +
+    '    at t.exports.dataMessage (/opt/Anchor Wallet/resources/app.asar/main.prod.js:2:7717222)'
+]
+[2022-05-09 00:30:19.228] [info]  anchor: initializing
+[2022-05-09 00:30:19.384] [info]  anchor: ready
+[2022-05-09 00:30:19.384] [info]  enableSigningRequests
+[2022-05-09 00:30:19.498] [info]  signing requests
+[2022-05-09 00:30:19.499] [info]  tray menu: creating
+[2022-05-09 00:30:19.525] [info]  creating tray menu
+[2022-05-09 00:30:19.526] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 00:30:19.554] [info]  wallet ui: creating
+[2022-05-09 00:30:19.588] [info]  protocol handler: creating ui
+[2022-05-09 00:30:19.588] [info]  initial request false
+[2022-05-09 00:30:20.533] [info]  protocol handler: loaded ui
+[2022-05-09 00:30:21.708] [info]  manager: successfully loaded
+[2022-05-09 00:30:45.535] [info]  anchor: initializing
+[2022-05-09 00:30:45.653] [info]  anchor: ready
+[2022-05-09 00:30:45.654] [info]  enableSigningRequests
+[2022-05-09 00:30:45.821] [info]  signing requests
+[2022-05-09 00:30:45.823] [info]  tray menu: creating
+[2022-05-09 00:30:45.838] [info]  creating tray menu
+[2022-05-09 00:30:45.839] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 00:30:45.894] [info]  wallet ui: creating
+[2022-05-09 00:30:45.924] [info]  protocol handler: creating ui
+[2022-05-09 00:30:45.925] [info]  initial request false
+[2022-05-09 18:01:56.920] [info]  anchor: initializing
+[2022-05-09 18:01:57.066] [info]  anchor: ready
+[2022-05-09 18:01:57.067] [info]  enableSigningRequests
+[2022-05-09 18:01:57.222] [info]  signing requests
+[2022-05-09 18:01:57.223] [info]  tray menu: creating
+[2022-05-09 18:01:57.244] [info]  creating tray menu
+[2022-05-09 18:01:57.244] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 18:01:57.273] [info]  wallet ui: creating
+[2022-05-09 18:01:57.308] [info]  protocol handler: creating ui
+[2022-05-09 18:01:57.309] [info]  initial request false
+[2022-05-09 18:01:58.267] [info]  protocol handler: loaded ui
+[2022-05-09 18:01:59.059] [info]  manager: successfully loaded
+[2022-05-09 18:02:12.285] [info]  anchor: initializing
+[2022-05-09 18:02:12.412] [info]  anchor: ready
+[2022-05-09 18:02:12.412] [info]  enableSigningRequests
+[2022-05-09 18:02:12.529] [info]  signing requests
+[2022-05-09 18:02:12.530] [info]  tray menu: creating
+[2022-05-09 18:02:12.538] [info]  creating tray menu
+[2022-05-09 18:02:12.539] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 18:02:12.577] [info]  wallet ui: creating
+[2022-05-09 18:02:12.602] [info]  protocol handler: creating ui
+[2022-05-09 18:02:12.602] [info]  initial request false
+[2022-05-09 20:23:27.354] [info]  anchor: initializing
+[2022-05-09 20:23:27.456] [info]  anchor: ready
+[2022-05-09 20:23:27.457] [info]  enableSigningRequests
+[2022-05-09 20:23:27.627] [info]  signing requests
+[2022-05-09 20:23:27.627] [info]  tray menu: creating
+[2022-05-09 20:23:27.638] [info]  creating tray menu
+[2022-05-09 20:23:27.639] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:23:27.673] [info]  wallet ui: creating
+[2022-05-09 20:23:27.695] [info]  protocol handler: creating ui
+[2022-05-09 20:23:27.696] [info]  initial request false
+[2022-05-09 20:23:39.269] [info]  anchor: initializing
+[2022-05-09 20:23:39.371] [info]  anchor: ready
+[2022-05-09 20:23:39.372] [info]  enableSigningRequests
+[2022-05-09 20:23:39.489] [info]  signing requests
+[2022-05-09 20:23:39.489] [info]  tray menu: creating
+[2022-05-09 20:23:39.496] [info]  creating tray menu
+[2022-05-09 20:23:39.496] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:23:39.526] [info]  wallet ui: creating
+[2022-05-09 20:23:39.544] [info]  protocol handler: creating ui
+[2022-05-09 20:23:39.544] [info]  initial request false
+[2022-05-09 20:23:46.915] [info]  anchor: initializing
+[2022-05-09 20:23:47.015] [info]  anchor: ready
+[2022-05-09 20:23:47.016] [info]  enableSigningRequests
+[2022-05-09 20:23:47.143] [info]  signing requests
+[2022-05-09 20:23:47.144] [info]  tray menu: creating
+[2022-05-09 20:23:47.150] [info]  creating tray menu
+[2022-05-09 20:23:47.151] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:23:47.181] [info]  wallet ui: creating
+[2022-05-09 20:23:47.199] [info]  protocol handler: creating ui
+[2022-05-09 20:23:47.199] [info]  initial request false
+[2022-05-09 20:23:54.358] [info]  anchor: initializing
+[2022-05-09 20:23:54.447] [info]  anchor: ready
+[2022-05-09 20:23:54.448] [info]  enableSigningRequests
+[2022-05-09 20:23:54.568] [info]  signing requests
+[2022-05-09 20:23:54.569] [info]  tray menu: creating
+[2022-05-09 20:23:54.574] [info]  creating tray menu
+[2022-05-09 20:23:54.575] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:23:54.604] [info]  wallet ui: creating
+[2022-05-09 20:23:54.622] [info]  protocol handler: creating ui
+[2022-05-09 20:23:54.622] [info]  initial request false
+[2022-05-09 20:24:03.736] [info]  anchor: initializing
+[2022-05-09 20:24:03.839] [info]  anchor: ready
+[2022-05-09 20:24:03.839] [info]  enableSigningRequests
+[2022-05-09 20:24:03.977] [info]  signing requests
+[2022-05-09 20:24:03.978] [info]  tray menu: creating
+[2022-05-09 20:24:03.985] [info]  creating tray menu
+[2022-05-09 20:24:03.986] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:24:04.020] [info]  wallet ui: creating
+[2022-05-09 20:24:04.041] [info]  protocol handler: creating ui
+[2022-05-09 20:24:04.041] [info]  initial request false
+[2022-05-09 20:24:16.469] [info]  anchor: initializing
+[2022-05-09 20:24:16.579] [info]  anchor: ready
+[2022-05-09 20:24:16.580] [info]  enableSigningRequests
+[2022-05-09 20:24:16.720] [info]  signing requests
+[2022-05-09 20:24:16.721] [info]  tray menu: creating
+[2022-05-09 20:24:16.727] [info]  creating tray menu
+[2022-05-09 20:24:16.727] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:24:16.759] [info]  wallet ui: creating
+[2022-05-09 20:24:16.778] [info]  protocol handler: creating ui
+[2022-05-09 20:24:16.778] [info]  initial request false
+[2022-05-09 20:24:25.089] [info]  anchor: initializing
+[2022-05-09 20:24:25.197] [info]  anchor: ready
+[2022-05-09 20:24:25.198] [info]  enableSigningRequests
+[2022-05-09 20:24:25.358] [info]  signing requests
+[2022-05-09 20:24:25.359] [info]  tray menu: creating
+[2022-05-09 20:24:25.366] [info]  creating tray menu
+[2022-05-09 20:24:25.367] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:24:25.399] [info]  wallet ui: creating
+[2022-05-09 20:24:25.426] [info]  protocol handler: creating ui
+[2022-05-09 20:24:25.427] [info]  initial request false
+[2022-05-09 20:24:36.122] [info]  anchor: initializing
+[2022-05-09 20:24:36.226] [info]  anchor: ready
+[2022-05-09 20:24:36.227] [info]  enableSigningRequests
+[2022-05-09 20:24:36.361] [info]  signing requests
+[2022-05-09 20:24:36.361] [info]  tray menu: creating
+[2022-05-09 20:24:36.368] [info]  creating tray menu
+[2022-05-09 20:24:36.369] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:24:36.406] [info]  wallet ui: creating
+[2022-05-09 20:24:36.426] [info]  protocol handler: creating ui
+[2022-05-09 20:24:36.427] [info]  initial request false
+[2022-05-09 20:24:46.715] [info]  anchor: initializing
+[2022-05-09 20:24:46.815] [info]  anchor: ready
+[2022-05-09 20:24:46.815] [info]  enableSigningRequests
+[2022-05-09 20:24:46.946] [info]  signing requests
+[2022-05-09 20:24:46.946] [info]  tray menu: creating
+[2022-05-09 20:24:46.954] [info]  creating tray menu
+[2022-05-09 20:24:46.954] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:24:46.983] [info]  wallet ui: creating
+[2022-05-09 20:24:47.006] [info]  protocol handler: creating ui
+[2022-05-09 20:24:47.007] [info]  initial request false
+[2022-05-09 20:25:31.532] [info]  anchor: initializing
+[2022-05-09 20:25:31.626] [info]  anchor: ready
+[2022-05-09 20:25:31.627] [info]  enableSigningRequests
+[2022-05-09 20:25:31.762] [info]  signing requests
+[2022-05-09 20:25:31.762] [info]  tray menu: creating
+[2022-05-09 20:25:31.768] [info]  creating tray menu
+[2022-05-09 20:25:31.769] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 20:25:31.799] [info]  wallet ui: creating
+[2022-05-09 20:25:31.816] [info]  protocol handler: creating ui
+[2022-05-09 20:25:31.816] [info]  initial request false
+[2022-05-09 22:10:58.888] [info]  anchor: initializing
+[2022-05-09 22:10:59.016] [info]  anchor: ready
+[2022-05-09 22:10:59.016] [info]  enableSigningRequests
+[2022-05-09 22:10:59.148] [info]  signing requests
+[2022-05-09 22:10:59.148] [info]  tray menu: creating
+[2022-05-09 22:10:59.155] [info]  creating tray menu
+[2022-05-09 22:10:59.155] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 22:10:59.192] [info]  wallet ui: creating
+[2022-05-09 22:10:59.208] [info]  protocol handler: creating ui
+[2022-05-09 22:10:59.209] [info]  initial request false
+[2022-05-09 22:11:24.117] [info]  anchor: initializing
+[2022-05-09 22:11:24.234] [info]  anchor: ready
+[2022-05-09 22:11:24.235] [info]  enableSigningRequests
+[2022-05-09 22:11:24.352] [info]  signing requests
+[2022-05-09 22:11:24.353] [info]  tray menu: creating
+[2022-05-09 22:11:24.359] [info]  creating tray menu
+[2022-05-09 22:11:24.359] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 22:11:24.400] [info]  wallet ui: creating
+[2022-05-09 22:11:24.421] [info]  protocol handler: creating ui
+[2022-05-09 22:11:24.421] [info]  initial request false
+[2022-05-09 22:40:37.375] [info]  anchor: initializing
+[2022-05-09 22:40:37.455] [info]  anchor: ready
+[2022-05-09 22:40:37.455] [info]  enableSigningRequests
+[2022-05-09 22:40:37.537] [info]  signing requests
+[2022-05-09 22:40:37.538] [info]  tray menu: creating
+[2022-05-09 22:40:37.544] [info]  creating tray menu
+[2022-05-09 22:40:37.544] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 22:40:37.573] [info]  wallet ui: creating
+[2022-05-09 22:40:37.591] [info]  protocol handler: creating ui
+[2022-05-09 22:40:37.591] [info]  initial request false
+[2022-05-09 22:40:47.237] [info]  anchor: initializing
+[2022-05-09 22:40:47.430] [info]  anchor: ready
+[2022-05-09 22:40:47.430] [info]  enableSigningRequests
+[2022-05-09 22:40:47.557] [info]  signing requests
+[2022-05-09 22:40:47.557] [info]  tray menu: creating
+[2022-05-09 22:40:47.566] [info]  creating tray menu
+[2022-05-09 22:40:47.566] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 22:40:47.602] [info]  wallet ui: creating
+[2022-05-09 22:40:47.619] [info]  protocol handler: creating ui
+[2022-05-09 22:40:47.620] [info]  initial request false
+[2022-05-09 22:49:44.655] [info]  anchor: initializing
+[2022-05-09 22:49:44.786] [info]  anchor: ready
+[2022-05-09 22:49:44.787] [info]  enableSigningRequests
+[2022-05-09 22:49:44.912] [info]  signing requests
+[2022-05-09 22:49:44.912] [info]  tray menu: creating
+[2022-05-09 22:49:44.920] [info]  creating tray menu
+[2022-05-09 22:49:44.921] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-09 22:49:44.951] [info]  wallet ui: creating
+[2022-05-09 22:49:44.969] [info]  protocol handler: creating ui
+[2022-05-09 22:49:44.970] [info]  initial request false
+[2022-05-10 01:47:20.809] [info]  anchor: initializing
+[2022-05-10 01:47:20.965] [info]  anchor: ready
+[2022-05-10 01:47:20.966] [info]  enableSigningRequests
+[2022-05-10 01:47:21.123] [info]  signing requests
+[2022-05-10 01:47:21.124] [info]  tray menu: creating
+[2022-05-10 01:47:21.147] [info]  creating tray menu
+[2022-05-10 01:47:21.147] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:47:21.174] [info]  wallet ui: creating
+[2022-05-10 01:47:21.200] [info]  protocol handler: creating ui
+[2022-05-10 01:47:21.201] [info]  initial request false
+[2022-05-10 01:47:22.004] [info]  protocol handler: loaded ui
+[2022-05-10 01:47:22.687] [info]  manager: successfully loaded
+[2022-05-10 01:47:40.548] [info]  anchor: initializing
+[2022-05-10 01:47:40.675] [info]  anchor: ready
+[2022-05-10 01:47:40.676] [info]  enableSigningRequests
+[2022-05-10 01:47:40.787] [info]  signing requests
+[2022-05-10 01:47:40.788] [info]  tray menu: creating
+[2022-05-10 01:47:40.795] [info]  creating tray menu
+[2022-05-10 01:47:40.795] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:47:40.826] [info]  wallet ui: creating
+[2022-05-10 01:47:40.845] [info]  protocol handler: creating ui
+[2022-05-10 01:47:40.846] [info]  initial request false
+[2022-05-10 01:48:16.185] [info]  anchor: initializing
+[2022-05-10 01:48:16.306] [info]  anchor: ready
+[2022-05-10 01:48:16.307] [info]  enableSigningRequests
+[2022-05-10 01:48:16.436] [info]  signing requests
+[2022-05-10 01:48:16.437] [info]  tray menu: creating
+[2022-05-10 01:48:16.442] [info]  creating tray menu
+[2022-05-10 01:48:16.442] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:48:16.477] [info]  wallet ui: creating
+[2022-05-10 01:48:16.497] [info]  protocol handler: creating ui
+[2022-05-10 01:48:16.497] [info]  initial request false
+[2022-05-10 01:48:27.027] [info]  anchor: initializing
+[2022-05-10 01:48:27.144] [info]  anchor: ready
+[2022-05-10 01:48:27.145] [info]  enableSigningRequests
+[2022-05-10 01:48:27.270] [info]  signing requests
+[2022-05-10 01:48:27.270] [info]  tray menu: creating
+[2022-05-10 01:48:27.275] [info]  creating tray menu
+[2022-05-10 01:48:27.275] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:48:27.308] [info]  wallet ui: creating
+[2022-05-10 01:48:27.327] [info]  protocol handler: creating ui
+[2022-05-10 01:48:27.328] [info]  initial request false
+[2022-05-10 01:48:50.077] [info]  anchor: initializing
+[2022-05-10 01:48:50.190] [info]  anchor: ready
+[2022-05-10 01:48:50.191] [info]  enableSigningRequests
+[2022-05-10 01:48:50.319] [info]  signing requests
+[2022-05-10 01:48:50.319] [info]  tray menu: creating
+[2022-05-10 01:48:50.325] [info]  creating tray menu
+[2022-05-10 01:48:50.325] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:48:50.357] [info]  wallet ui: creating
+[2022-05-10 01:48:50.376] [info]  protocol handler: creating ui
+[2022-05-10 01:48:50.376] [info]  initial request false
+[2022-05-10 01:48:57.048] [info]  anchor: initializing
+[2022-05-10 01:48:57.185] [info]  anchor: ready
+[2022-05-10 01:48:57.186] [info]  enableSigningRequests
+[2022-05-10 01:48:57.285] [info]  signing requests
+[2022-05-10 01:48:57.286] [info]  tray menu: creating
+[2022-05-10 01:48:57.291] [info]  creating tray menu
+[2022-05-10 01:48:57.292] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:48:57.321] [info]  wallet ui: creating
+[2022-05-10 01:48:57.338] [info]  protocol handler: creating ui
+[2022-05-10 01:48:57.339] [info]  initial request false
+[2022-05-10 01:49:04.320] [info]  anchor: initializing
+[2022-05-10 01:49:04.426] [info]  anchor: ready
+[2022-05-10 01:49:04.427] [info]  enableSigningRequests
+[2022-05-10 01:49:04.538] [info]  signing requests
+[2022-05-10 01:49:04.539] [info]  tray menu: creating
+[2022-05-10 01:49:04.545] [info]  creating tray menu
+[2022-05-10 01:49:04.545] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:49:04.575] [info]  wallet ui: creating
+[2022-05-10 01:49:04.593] [info]  protocol handler: creating ui
+[2022-05-10 01:49:04.593] [info]  initial request false
+[2022-05-10 01:49:11.120] [info]  anchor: initializing
+[2022-05-10 01:49:11.227] [info]  anchor: ready
+[2022-05-10 01:49:11.227] [info]  enableSigningRequests
+[2022-05-10 01:49:11.355] [info]  signing requests
+[2022-05-10 01:49:11.356] [info]  tray menu: creating
+[2022-05-10 01:49:11.361] [info]  creating tray menu
+[2022-05-10 01:49:11.362] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:49:11.391] [info]  wallet ui: creating
+[2022-05-10 01:49:11.407] [info]  protocol handler: creating ui
+[2022-05-10 01:49:11.408] [info]  initial request false
+[2022-05-10 01:49:19.845] [info]  anchor: initializing
+[2022-05-10 01:49:19.962] [info]  anchor: ready
+[2022-05-10 01:49:19.963] [info]  enableSigningRequests
+[2022-05-10 01:49:20.086] [info]  signing requests
+[2022-05-10 01:49:20.087] [info]  tray menu: creating
+[2022-05-10 01:49:20.093] [info]  creating tray menu
+[2022-05-10 01:49:20.093] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:49:20.132] [info]  wallet ui: creating
+[2022-05-10 01:49:20.150] [info]  protocol handler: creating ui
+[2022-05-10 01:49:20.151] [info]  initial request false
+[2022-05-10 01:49:26.698] [info]  anchor: initializing
+[2022-05-10 01:49:26.829] [info]  anchor: ready
+[2022-05-10 01:49:26.830] [info]  enableSigningRequests
+[2022-05-10 01:49:26.970] [info]  signing requests
+[2022-05-10 01:49:26.971] [info]  tray menu: creating
+[2022-05-10 01:49:26.976] [info]  creating tray menu
+[2022-05-10 01:49:26.976] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:49:27.008] [info]  wallet ui: creating
+[2022-05-10 01:49:27.025] [info]  protocol handler: creating ui
+[2022-05-10 01:49:27.025] [info]  initial request false
+[2022-05-10 01:49:34.562] [info]  anchor: initializing
+[2022-05-10 01:49:34.677] [info]  anchor: ready
+[2022-05-10 01:49:34.678] [info]  enableSigningRequests
+[2022-05-10 01:49:34.783] [info]  signing requests
+[2022-05-10 01:49:34.784] [info]  tray menu: creating
+[2022-05-10 01:49:34.791] [info]  creating tray menu
+[2022-05-10 01:49:34.791] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:49:34.822] [info]  wallet ui: creating
+[2022-05-10 01:49:34.840] [info]  protocol handler: creating ui
+[2022-05-10 01:49:34.841] [info]  initial request false
+[2022-05-10 01:49:41.644] [info]  anchor: initializing
+[2022-05-10 01:49:41.764] [info]  anchor: ready
+[2022-05-10 01:49:41.765] [info]  enableSigningRequests
+[2022-05-10 01:49:41.875] [info]  signing requests
+[2022-05-10 01:49:41.876] [info]  tray menu: creating
+[2022-05-10 01:49:41.882] [info]  creating tray menu
+[2022-05-10 01:49:41.883] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:49:41.918] [info]  wallet ui: creating
+[2022-05-10 01:49:41.936] [info]  protocol handler: creating ui
+[2022-05-10 01:49:41.937] [info]  initial request false
+[2022-05-10 01:58:46.846] [info]  anchor: initializing
+[2022-05-10 01:58:46.957] [info]  anchor: ready
+[2022-05-10 01:58:46.958] [info]  enableSigningRequests
+[2022-05-10 01:58:47.103] [info]  signing requests
+[2022-05-10 01:58:47.104] [info]  tray menu: creating
+[2022-05-10 01:58:47.116] [info]  creating tray menu
+[2022-05-10 01:58:47.117] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:58:47.148] [info]  wallet ui: creating
+[2022-05-10 01:58:47.167] [info]  protocol handler: creating ui
+[2022-05-10 01:58:47.167] [info]  initial request false
+[2022-05-10 01:59:16.750] [info]  anchor: initializing
+[2022-05-10 01:59:16.901] [info]  anchor: ready
+[2022-05-10 01:59:16.902] [info]  enableSigningRequests
+[2022-05-10 01:59:17.047] [info]  signing requests
+[2022-05-10 01:59:17.048] [info]  tray menu: creating
+[2022-05-10 01:59:17.054] [info]  creating tray menu
+[2022-05-10 01:59:17.054] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:59:17.095] [info]  wallet ui: creating
+[2022-05-10 01:59:17.113] [info]  protocol handler: creating ui
+[2022-05-10 01:59:17.114] [info]  initial request false
+[2022-05-10 01:59:32.385] [info]  anchor: initializing
+[2022-05-10 01:59:32.530] [info]  anchor: ready
+[2022-05-10 01:59:32.531] [info]  enableSigningRequests
+[2022-05-10 01:59:32.680] [info]  signing requests
+[2022-05-10 01:59:32.680] [info]  tray menu: creating
+[2022-05-10 01:59:32.687] [info]  creating tray menu
+[2022-05-10 01:59:32.687] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:59:32.718] [info]  wallet ui: creating
+[2022-05-10 01:59:32.742] [info]  protocol handler: creating ui
+[2022-05-10 01:59:32.744] [info]  initial request false
+[2022-05-10 01:59:55.763] [info]  anchor: initializing
+[2022-05-10 01:59:55.877] [info]  anchor: ready
+[2022-05-10 01:59:55.878] [info]  enableSigningRequests
+[2022-05-10 01:59:55.986] [info]  signing requests
+[2022-05-10 01:59:55.987] [info]  tray menu: creating
+[2022-05-10 01:59:55.992] [info]  creating tray menu
+[2022-05-10 01:59:55.992] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 01:59:56.023] [info]  wallet ui: creating
+[2022-05-10 01:59:56.041] [info]  protocol handler: creating ui
+[2022-05-10 01:59:56.041] [info]  initial request false
+[2022-05-10 02:00:30.148] [info]  anchor: initializing
+[2022-05-10 02:00:30.270] [info]  anchor: ready
+[2022-05-10 02:00:30.271] [info]  enableSigningRequests
+[2022-05-10 02:00:30.377] [info]  signing requests
+[2022-05-10 02:00:30.378] [info]  tray menu: creating
+[2022-05-10 02:00:30.385] [info]  creating tray menu
+[2022-05-10 02:00:30.385] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 02:00:30.417] [info]  wallet ui: creating
+[2022-05-10 02:00:30.435] [info]  protocol handler: creating ui
+[2022-05-10 02:00:30.435] [info]  initial request false
+[2022-05-10 02:01:00.738] [info]  anchor: initializing
+[2022-05-10 02:01:00.844] [info]  anchor: ready
+[2022-05-10 02:01:00.844] [info]  enableSigningRequests
+[2022-05-10 02:01:00.976] [info]  signing requests
+[2022-05-10 02:01:00.977] [info]  tray menu: creating
+[2022-05-10 02:01:00.984] [info]  creating tray menu
+[2022-05-10 02:01:00.985] [info]  /opt/Anchor Wallet/resources/app.asar/renderer/assets/icons/png/32x32@2x.png
+[2022-05-10 02:01:01.014] [info]  wallet ui: creating
+[2022-05-10 02:01:01.030] [info]  protocol handler: creating ui
+[2022-05-10 02:01:01.031] [info]  initial request false

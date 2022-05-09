@@ -1,0 +1,28 @@
+{
+  "chunks": {
+    "preload": [
+      "static/chunks/bnc~pl~1.a9495946.js",
+      "static/css/297ead49.chunk.css",
+      "static/chunks/bnc~pl~2.1e8e26b1.js",
+      "static/chunks/bnc~pl~18.59dc8821.js",
+      "static/chunks/bnc~pl~6.fd9ce76d.js",
+      "static/chunks/bnc~pl~7.07d55290.js",
+      "static/chunks/bnc~pl~9.c6a057e9.js",
+      "static/chunks/bnc~pl~10.47795344.js",
+      "static/chunks/bnc~pl~11.cf587ce0.js",
+      "static/chunks/bnc~pl~13.df841c56.js",
+      "static/chunks/bnc~pl~14.fd685852.js",
+      "static/chunks/bnc~pl~19.975d3c90.js",
+      "static/chunks/bnc~pl~20.56dc1218.js",
+      "static/chunks/bnc~pl~27.92f064cb.js",
+      "static/chunks/bnc~pl~26.f0077901.js",
+      "static/chunks/bnc~pl~54.dbe8fb2a.js",
+      "static/chunks/bnc~pl~25.bc7565c7.js",
+      "static/chunks/bnc~pl~29.c92203fb.js",
+      "static/chunks/bnc~pl~30.62b0c85a.js",
+      "static/chunks/bnc~pl~3.d3c2002e.js",
+      "static/chunks/bnc~pl~4.09e6442c.js",
+      "static/chunks/bnc~pl~5.c748788b.js"
+    ]
+  }
+}
