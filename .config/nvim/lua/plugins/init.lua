@@ -11,7 +11,7 @@ return require('packer').startup({
   function(use)
     -- Packer can manage itself
     use 'wbthomason/packer.nvim'
-    use { 'navarasu/onedark.nvim', config = "vim.cmd('colorscheme onedark')" }
+    use { 'SheetaI/onedark.nvim', config = "vim.cmd('colorscheme onedark')" }
     use {
       'nvim-treesitter/nvim-treesitter',
       run = ":TSUpdate",
