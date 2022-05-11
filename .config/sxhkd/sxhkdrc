@@ -39,12 +39,6 @@ super + c
 # launch music player
 super + m
   st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
-
-# working launch music player
-#super + m
-#	st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
-
-# lockscreen
 	
 # ---------- screenshot ---------- #
 
