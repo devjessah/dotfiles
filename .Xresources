@@ -1,3 +1,4 @@
+!-- font rendering --!
 Xft.antialias: 1
 Xft.hinting: 1
 Xft.autohint: 0
@@ -6,16 +7,16 @@ Xft.rgba: rgb
 Xft.lcdfilter:lcddefault
 Xft.dpi: 96
 
-! window padding
+!-- window padding --!
 st.borderpx: 2.0
 
-!-- values between 0.1  - 1.0 --! 
-
+!-- transparency: values between 0.1 - 1.0 --! 
 st.alpha: 0.90
 
 !-- nerd font --!
 st.font:	   Iosevka Nerd Font:style:medium:pixelsize=19
 
+!-- color palette --!
 #define base00 #2C3036
 #define base01 #36393F
 #define base02 #3e4451
@@ -62,6 +63,3 @@ tabbed.selbgcolor:   #1e222a
 
 tabbed.normfgcolor:  #9294a8
 tabbed.normbgcolor:  #282c34
-
-
-
