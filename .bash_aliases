@@ -13,6 +13,8 @@ alias bar='vim ~/.config/polybar/config.ini'
 alias cb='vim ~/.bashrc'
 alias ca='vim ~/.bash_aliases'
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias cn='cd ~/.config/nvim/'
+alias v='nvim'
 
 #--------- updates & maintenance ---------#
 alias syu='sudo pacman -Syu'
@@ -21,6 +23,7 @@ alias yyu='yay -Syu'
 alias disk='df -h'
 alias mirrors='sudo reflector --verbose --country Singapore,"United States","South Korea",Taiwan,Indonesia --latest 20 --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist'
 alias backup='sudo timeshift --create'
+alias sc='systemctl'
 
 #--------- youtube ---------#
 alias yt='youtube-dl --extract-audio --add-metadata --xattrs --embed-thumbnail --audio-quality 0 --audio-format mp3'
