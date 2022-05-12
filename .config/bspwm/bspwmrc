@@ -23,10 +23,7 @@ bspc config gapless_monocle      true
 bspc rule -a firefox desktop='^1' follow=on
 bspc rule -a Brave-browser desktop='^2'
 bspc rule -a "Anchor Wallet" desktop='^1' state=floating follow=on
-bspc rule -a Binance desktop='^6'
+bspc rule -a Binance desktop='^4'
 bspc rule -a Galculator state=floating center=true
-bspc rule -a Kupfer.py focus=on
-bspc rule -a Screenkey manage=off
 bspc rule -a Thunar desktop='^3' follow=on
-
-
+bspc rule -a Virt-manager desktop='^4' follow=on
