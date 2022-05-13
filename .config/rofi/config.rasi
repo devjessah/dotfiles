@@ -42,7 +42,7 @@ inputbar {
 }
 
 prompt {
-    background-color: @blue;
+    background-color: @green;
     padding: 6px;
     text-color: @bg-col;
     border-radius: 3px;
@@ -98,6 +98,5 @@ button {
 
 button selected {
   background-color: @bg-col;
-  text-color: @blue;
+  text-color: @green;
 }
-
