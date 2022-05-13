@@ -26,4 +26,3 @@ bspc rule -a "Anchor Wallet" desktop='^1' state=floating follow=on
 bspc rule -a Binance desktop='^4'
 bspc rule -a Galculator state=floating center=true
 bspc rule -a Thunar desktop='^3' follow=on
-bspc rule -a Virt-manager desktop='^4' follow=on
