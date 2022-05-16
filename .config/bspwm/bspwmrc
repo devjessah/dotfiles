@@ -5,7 +5,7 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 $HOME/.config/polybar/launch.sh &
 $HOME/.config/dunst/eyes.sh &
 xrdb merge ~/.Xresources &
-feh --bg-fill ~/Pictures/Wallpaper/01.jpg &
+feh --bg-fill ~/Pictures/Wallpaper/02.jpg &
 xsetroot -cursor_name left_ptr
 picom &
 dunst &
@@ -22,7 +22,6 @@ bspc config gapless_monocle      true
 
 bspc rule -a firefox desktop='^1' follow=on
 bspc rule -a Brave-browser desktop='^2'
-bspc rule -a "Anchor Wallet" desktop='^1' state=floating follow=on
 bspc rule -a Binance desktop='^4'
 bspc rule -a Galculator state=floating center=true
 bspc rule -a Thunar desktop='^3' follow=on
