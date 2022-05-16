@@ -6,14 +6,15 @@ alias ra='source ~/.bash_aliases'
 alias xrr='xrdb merge ~/.Xresources'
 
 #--------- configs ---------#
-alias xr='vim ~/.Xresources'
-alias bs='vim ~/.config/bspwm/bspwmrc'
-alias sx='vim ~/.config/sxhkd/sxhkdrc'
-alias bar='vim ~/.config/polybar/config.ini'
-alias cb='vim ~/.bashrc'
-alias ca='vim ~/.bash_aliases'
+alias xr='nvim ~/.Xresources'
+alias bs='nvim ~/.config/bspwm/bspwmrc'
+alias sx='nvim ~/.config/sxhkd/sxhkdrc'
+alias bar='nvim ~/.config/polybar/config.ini'
+alias cb='nvim ~/.bashrc'
+alias ca='nvim ~/.bash_aliases'
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias cn='cd ~/.config/nvim/'
+alias ct='nvim ~/.config/nvim/lua/custom/themes/xonedark.lua'
 alias v='nvim'
 
 #--------- updates & maintenance ---------#
@@ -26,8 +27,8 @@ alias backup='sudo timeshift --create'
 alias sc='systemctl'
 
 #--------- youtube ---------#
-alias yt='youtube-dl --extract-audio --add-metadata --xattrs --embed-thumbnail --audio-quality 0 --audio-format mp3'
-alias ytv='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --embed-thumbnail --add-metadata'
+alias yt='youtube-dl --extract-audio --add-metadata --xattrs --embed-thumbnail --audio-quality 0 --audio-format mp3 --output "~/Music/%(title)s.%(ext)s"'
+alias ytv='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --embed-thumbnail --add-metadata --output "~/Videos/%(title)s.%(ext)s"'
 
 #--------- mpd ---------#
 alias kek='killall mpd ncmpcpp ncmpcpp_cover_art.sh'
