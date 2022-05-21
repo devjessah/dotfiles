@@ -3,7 +3,7 @@
     bg-col-light: #282c34;
     border-col: #282c34;
     selected-col: #282c34;
-    green: #98c379;
+    green: #e5c07b;
     fg-col: #abb2bf;
     fg-col2: #e5c07b;
     grey: #565c64;
