@@ -30,7 +30,7 @@ super + e
 
 # launch IDE
 super + n
-  {st -e nvim}
+  st -e nvim
 
 # launch calculator
 super + c
@@ -39,6 +39,12 @@ super + c
 # launch music player
 super + m
   st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
+
+# working launch music player
+#super + m
+#	st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
+
+# lockscreen
 	
 # ---------- screenshot ---------- #
 
@@ -46,7 +52,7 @@ super + m
 Print
      maim "/home/$USER/Pictures/Screenshots/$(date +%s).png" && notify-send "  Screenshot has been taken."
      
-#cropped save
+#crop select
 super + Print
       maim --select "/home/$USER/Pictures/Screenshots/$(date +%s).png" && notify-send "  Screenshot has been taken."
 
