@@ -13,8 +13,10 @@ udiskie &
 
 bspc monitor -d 1 2 3 4
 
-bspc config border_width         2
-bspc config window_gap           5
+bspc config border_width         2.5
+bspc config window_gap           6
+bspc config focused_border_color '#d19e66'
+bspc config normal_border_color '#22262c'
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
@@ -22,6 +24,9 @@ bspc config gapless_monocle      true
 
 bspc rule -a firefox desktop='^1' follow=on
 bspc rule -a Brave-browser desktop='^2'
+bspc rule -a "Anchor Wallet" desktop='^1' state=floating follow=on
 bspc rule -a Binance desktop='^4'
 bspc rule -a Galculator state=floating center=true
 bspc rule -a Thunar desktop='^3' follow=on
+
+
