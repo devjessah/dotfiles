@@ -15,7 +15,8 @@ alias ca='nvim ~/.bash_aliases'
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias cn='cd ~/.config/nvim/'
 alias ct='nvim ~/.config/nvim/lua/custom/themes/xonedark.lua'
-alias v='nvim'
+alias nv='nvim'
+alias v='vim'
 
 #--------- updates & maintenance ---------#
 alias syu='sudo pacman -Syu'
