@@ -1,4 +1,6 @@
 # dotfiles
-Heavily inspired by [siduck](https://github.com/siduck) rices.
+Inspired by [siduck](https://github.com/siduck) rices.
 
-![Desktop](https://raw.githubusercontent.com/SheetaI/dotfiles/master/Pictures/Desktop.png)
+![Desktopa](https://raw.githubusercontent.com/SheetaI/dotfiles/master/Pictures/Desktopa.png)
+
+![Desktopb](https://raw.githubusercontent.com/SheetaI/dotfiles/master/Pictures/Desktopb.png)
