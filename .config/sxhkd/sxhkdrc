@@ -36,6 +36,10 @@ super + n
 super + c
 	galculator
 
+# launch obsidian
+super + j
+        obsidian
+
 # launch music player
 super + m
   st -e mpd && st -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
