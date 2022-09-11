@@ -11,17 +11,17 @@ Xft.dpi: 96
 st.borderpx: 2.0
 
 !-- transparency 0.1  - 1.0 --! 
-st.alpha: 0.80
+st.alpha: 0.90
 
 !-- nerd font --!
 st.font: Iosevka Nerd Font:style:medium:pixelsize=19
 
-#define base00 #2C3036
+#define base00 #2D2F32
 #define base01 #36393F
 #define base02 #3e4451
 #define base03 #545862
 #define base04 #565c64
-#define base05 #ABB2BF
+#define base05 #e3e3e3
 #define base06 #b6bdca
 #define base07 #B7C2CE
 #define base08 #E06C75
@@ -34,7 +34,7 @@ st.font: Iosevka Nerd Font:style:medium:pixelsize=19
 #define base0F #F47B67
 
 *foreground:   base07
-*background:   #2C3036
+*background:   #2D2F32
 *cursorColor:  base05
 
 *color0:       base00
